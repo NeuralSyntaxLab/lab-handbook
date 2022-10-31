@@ -1,6 +1,6 @@
 # Nissl staining of paraformaldehyde (4%) fixed brain tissues:
 
-This protocol build on (link) and is optimized to slice thickness between 70 and 100 micrometers; thinner slices may need to be treated differently.
+This protocol build on [the well established protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Histology%20and%20Immunohistochemistry/_creysl_violet_stain_neurosciencecourses.pdf) and is optimized to slice thickness between 70 and 100 micrometers; thinner slices may need to be treated differently.
 
 ## Preparation
 After sectioning with the Vibratome, rinse the slices in distilled water and mount on charged glass slides. If the tissue is sectioned using the cryostat, slices should be washed 3x in 1xPBS for 5 minutes for each wash.
