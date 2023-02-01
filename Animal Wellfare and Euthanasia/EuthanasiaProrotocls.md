@@ -44,8 +44,33 @@ This protocol is used to humanely kill a bird when its brain, or any other part,
 * The carcass will be disposed in the freezer next to the hood.
 ---
 2. **Prior to perfusion and necropsy:**
-This protocol is used to humanely kill a bird right before a perfusion (e.g. when its brain is need).
+This protocol is used to humanely kill a bird right before a perfusion (e.g. when its brain is need). It's main difference from the above protocol is that we do not decapitate the bird but, rather, move on with the perfusion process once sensation is gone and breathing stops but before the heart stops.
 
 *Preparation:*
-* First, all the preparation steps for perfusion are followed as detailed [here]. 
+* First, all the preparation steps for perfusion are followed as detailed [here](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Histology%20and%20Immunohistochemistry/perfusion_and_brain_extraction.md). 
+* Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital (euthasol).
+* The euthasol solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
+* Killing will be done next to the hood. The environment should be quiet and calm as possible.
+* The bay next to the hood must be cleared of obstructions.
+* A 1mL syringe with a 30 gauge needle is prepared with 0.2mL solution for a Zebra finch or 0.3mL for a canary.
+* The syringe is kept without a strongly-attched cap. Unlocking or releasing a cap may cause problems. 
+* A spray bottle with 70% ethanol is next to the hood.
+* Gloves are available next to the hood.
+* A biohazard waste recepticle with ample room is placed next to the hood.
+
+*Procedure:*
+* Gloves are worn before beginning the procedure.
+* The bird is brought to the prepared environment in a cage or, if brought from a setup, held by hand.
+* Actions are performed without erratic movements to avoid stress (of both the human and the bird).
+* For precise IC route, the bird are held on their back and the botom part of the abdomen, at a third of the distance to the ribs, is located. Injection is slightly to the side of the midline.
+* The bird is injected, IC (intracoelomic), with 250mg/kg euthasol (this is 0.1-0.2ml of the strandard solution in Zebra finches and 0.2-0.3ml in canaries)
+* The bird is held in the hand and closely monitored.
+* Once breathing is no longer observed a toe-pinch test, as above, is used to assure lack of sensation.
+* At this point the feathers from the entire abdomen and the neck are plucked.
+* The bird is attached to the perfusion tray and the [perfusion protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Histology%20and%20Immunohistochemistry/perfusion_and_brain_extraction.md) is followed.
+* Carcass remainders are disposed of in the freezer next to the hood.
+---
+3. **During surgery:**
+
+
 
