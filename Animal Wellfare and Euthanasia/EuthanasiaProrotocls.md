@@ -15,10 +15,10 @@ We separate euthaniasia procedures into three distinct cases:
 3. **During surgery:** Birds may be killed during a surgery to prevent unnecessary suffering.
 
 ### Detailed protocols:
-
+---
 1. **General end-point:**
 This protocol is used to humanely kill a bird when its brain, or any other part, is not needed.
----
+
 *Preparation:*
 * Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital (euthasol).
 * The euthasol solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
@@ -29,7 +29,7 @@ This protocol is used to humanely kill a bird when its brain, or any other part,
 * Decapitation scissors are available in the room.
 * A spray bottle with 70% ethanol is available in the room.
 * Gloves are available in the room.
----
+
 *Procedure:*
 * Gloves are worn before beginning the procedure.
 * The bird is brought to the prepared environment in a cage or, if brought from a setup, held by hand.
@@ -42,4 +42,5 @@ This protocol is used to humanely kill a bird when its brain, or any other part,
 * The carcass (body and head) will be rolled into the glove of one hand and then into the other glove.
 * The last glove will be tied.
 * The carcass will be disposed in the freezer next to the hood.
-
+---
+2. **Prior to perfusion and necropsy:**
