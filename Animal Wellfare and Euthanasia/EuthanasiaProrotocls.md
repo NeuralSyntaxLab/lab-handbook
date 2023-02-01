@@ -1,7 +1,7 @@
 # Euthanasia
 
 ### Big picture
-
+---
 Birds will be killed following strict end-point guidelines. General guidelines are mentioned in [our Wiki](https://github.com/NeuralSyntaxLab/lab-handbook/wiki/Lab-Operations-and-Procedures#euthanasia) and others may be project-specific. 
 
 * Birds in a running experiment will be killed after obtaining approval by the PI. 
@@ -14,7 +14,7 @@ We separate euthaniasia procedures into three distinct cases:
 2. **Prior to perfusion and necropsy:** We kill birds prior to performing perfusion and necropsy. This procedure is slightly different than the general case.
 3. **During surgery:** Birds may be killed during a surgery to prevent unnecessary suffering.
 
-### Detailed protocols:
+### Detailed protocols
 ---
 1. **General end-point:**
 This protocol is used to humanely kill a bird when its brain, or any other part, is not needed.
@@ -44,3 +44,8 @@ This protocol is used to humanely kill a bird when its brain, or any other part,
 * The carcass will be disposed in the freezer next to the hood.
 ---
 2. **Prior to perfusion and necropsy:**
+This protocol is used to humanely kill a bird right before a perfusion (e.g. when its brain is need).
+
+*Preparation:*
+* First, all the preparation steps for perfusion are followed as detailed [here]. 
+
