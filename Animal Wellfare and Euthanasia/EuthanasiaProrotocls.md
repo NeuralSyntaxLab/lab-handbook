@@ -71,6 +71,18 @@ This protocol is used to humanely kill a bird right before a perfusion (e.g. whe
 * Carcass remainders are disposed of in the freezer next to the hood.
 ---
 3. **During surgery:**
+This protocol is used when it is necessary to kill a bird during surgery. This need may arise in two conditions. One, when bleeding occurs and the surgeon decides it is fatal (e.g. an erronous nicking of the midline sinus). Two, when the main purpose of the surgery fails (e.g. a failed implant) and there is no reason to keep the bird.
+
+ *Preparation:*
+ * The decapitation scissors need to be available.
+
+ *Procedure:*
+ * Gloves are worn before beginning the procedure.
+ * The Isoflurane mixture is raised to 5% and kept this way for 5-10 minutes. This puts the bird in very deep anesthesia
+ * If, for whatever reason (pain or adaptation to anesthesia in a long surgery), the bird is prone to wake, then a 1mL syringe with euthasol (0.2mL for finch, 0.3 for canary) is prepared during the 10 minutes. Then, 
+ * 
+
+
 
 
 
