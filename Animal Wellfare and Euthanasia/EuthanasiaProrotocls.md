@@ -78,9 +78,12 @@ This protocol is used when it is necessary to kill a bird during surgery. This n
 
  *Procedure:*
  * Gloves are worn before beginning the procedure.
- * The Isoflurane mixture is raised to 5% and kept this way for 5-10 minutes. This puts the bird in very deep anesthesia
- * If, for whatever reason (pain or adaptation to anesthesia in a long surgery), the bird is prone to wake, then a 1mL syringe with euthasol (0.2mL for finch, 0.3 for canary) is prepared during the 10 minutes. Then, 
- * 
+ * The Isoflurane mixture is raised to 5% and kept this way for 5-10 minutes. This puts the bird in very deep anesthesia.
+ * Then, the bird is decapitated while anesthetized.
+ * The carcass and the head are disposed of as in (1).
+ * If, for whatever reason (pain or adaptation to anesthesia in a long surgery), the bird is prone to wake, then a 1mL syringe with euthasol (0.2mL for finch, 0.3 for canary) is prepared during the 10 minutes. 
+ * Then, the procedure is as (1) above: injection IC while the bird is anesthetized, waiting for breathing to stop, and decapitation.
+ * If the brain is needed for histology then the bird is not decapitated. Instead, the procedure after the euthasol injection is as in (2)  
 
 
 
