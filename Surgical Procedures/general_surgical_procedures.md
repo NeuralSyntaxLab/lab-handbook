@@ -22,13 +22,12 @@ Additionally, some sections and steps in these surgical procedures have multiple
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
 
 * Surgery tools
-
+- Forcepes
+- Scissors
+- Scalpels
+- Dura picks
 
 **The following materials are prepared:**
-* Forcepes
-* Scissors
-* Scalpels
-* Dura picks
 
 ### Disinfection
 
