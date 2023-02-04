@@ -11,9 +11,24 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: The surgeon makes sure that the procedure, including pre-op, starts late ebough so that the animals has time to eat after sunrise, and plans the surgery such that animals will have time to recover, eat, and drink before sunset. If needed, birds will be kept with lights so they get a chance to eat and drink
 * :bangbang: Birds are brought to the surgery room in transport cages at least 30 minutes before the anesthesia process starts.
 * :bangbang: If more than one bird will undergo surgery then several animals can be brought from the aviary. Each needs to be in its own travel cage. Birds that are waiting for their surgery can be kept in the main lab space, the surgery room, or in an experiment room. The location and environment should be set to avoid distressing birds.
-* :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals  
-### Equipment
-### Surgery table
+* :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals will undergo surgery. 
+### Equipment and materials
+**The following equipment is arranged and checked:**
+* Anesthesia system
+* Heating system
+* Stereotactic system
+* Dental drill system
+* Surgery table
+
+* Surgery tools
+
+
+**The following materials are prepared:**
+* Forcepes
+* Scissors
+* Scalpels
+* Dura picks
+
 ### Disinfection
 
 ## Induction
