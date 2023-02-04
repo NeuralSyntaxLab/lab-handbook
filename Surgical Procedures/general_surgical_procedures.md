@@ -19,6 +19,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * Stereotactic system
 * Dental drill system
 * Surgery table
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
 
 * Surgery tools
 
