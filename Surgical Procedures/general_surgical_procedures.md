@@ -34,12 +34,15 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: The system's grounding is checked.
 * Dental drill system
 	- We use a dental turbine as in this picture: <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216824737-3ca6faab-65fe-45fe-9711-76e7fb380927.png">
-
-
+	- :bangbang: The air pressure needs to be on.
+	- The air pressure range is set by a regulator to the range of 3-4 bar.
+	- The burr is replaced upon need.
+	- The turbine is serviced upon need.
+	- :bangbang: The pedal is tested before the surgery.
 * Surgery table
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
+	- We use a TMC CleanBench air table similar to the one in this picture: <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
 
-* Surgery tools
+* Surgery tools - each surgeon compiles their set of preferred tools.
 	- Forcepes
 	- Scissors
 	- Scalpels
