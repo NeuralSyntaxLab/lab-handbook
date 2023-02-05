@@ -54,7 +54,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- Scissors
 	- Scalpel holder + blades.
 	- Dura picks
+	- Ice bucket
 
+:bangbang: If a possible outcome of the surgery is a perfusion of the animal then preparations should be made following the [euthanasia protocol] and the perfusion protocol
 **The following materials are prepared:**
 
 * :bangbang: 70% Ethanol in a testube stand
@@ -69,7 +71,23 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * Needles - gauge 30 and 25.
 * Insect pins
 * Surgical drape
+* Ice
 
 ### Disinfection
-* Quatricide or 10% bleach is sprayed on the surgery table, microscope, stereotactic system, 
-## Induction
+* Quatricide or 10% bleach is sprayed on the surgery table, microscope, stereotactic system, illumintion, and heating systems.
+* Surgery tools are sterilized in a hot beads chamber as in this picture: <img width="120" alt="image" src="https://user-images.githubusercontent.com/17324841/216833652-96035623-6b55-4321-b8b6-11cda7422db1.png">
+* The sterile drape is laid over the heating pad and extends to one side of the stereotactic system onto the surgery table.
+* The sterile surgery tools are laid on the drape. 
+
+## Standard surgery procedures
+### Induction
+
+### Anesthesia maintenance
+
+### Skin incision
+
+### Stereotactic coordinates 
+
+### Craniotomy
+
+### Durotomy
