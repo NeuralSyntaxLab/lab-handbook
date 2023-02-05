@@ -12,6 +12,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: Birds are brought to the surgery room in transport cages at least 30 minutes before the anesthesia process starts.
 * :bangbang: If more than one bird will undergo surgery then several animals can be brought from the aviary. Each needs to be in its own travel cage. Birds that are waiting for their surgery can be kept in the main lab space, the surgery room, or in an experiment room. The location and environment should be set to avoid distressing birds.
 * :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals will undergo surgery. 
+* :bangbang: Water and food are removed 30 minutes before ansthesia induction. This prevents suffocation.
 ### Equipment and materials
 **The following equipment is arranged and checked:**
 * Anesthesia system:
@@ -44,6 +45,10 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: The air pressure is turned on.
 	- The regulator sets the pressure to about 5.4 bar = 80 psi.
 	- The table is in a stable position before the surgery starts. 
+* Dissection microscope and dissection lights:
+	- We use the Leica M80 stereo microscope and the AmScope gooseneck light.
+	- The light is tested before the surgery.
+	- The microscope's objective lens is verified to meet the surgeon's needs.  
 * Surgery tools - each surgeon compiles their set of preferred tools.
 	- Forcepes
 	- Scissors
@@ -63,6 +68,8 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * Bone cement powder + hardner + stirring cups
 * Needles - gauge 30 and 25.
 * Insect pins
-### Disinfection
+* Surgical drape
 
+### Disinfection
+* Quatricide or 10% bleach is sprayed on the surgery table, microscope, stereotactic system, 
 ## Induction
