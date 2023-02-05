@@ -56,7 +56,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- Dura picks
 	- Ice bucket
 
-:bangbang: If a possible outcome of the surgery is a perfusion of the animal then preparations should be made following the [euthanasia protocol] and the perfusion protocol
+:bangbang: If a possible outcome of the surgery is a perfusion of the animal then preparations should be made following the [euthanasia protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Animal%20Wellfare%20and%20Euthanasia/EuthanasiaProrotocls.md) and the perfusion protocol
 **The following materials are prepared:**
 
 * :bangbang: 70% Ethanol in a testube stand
