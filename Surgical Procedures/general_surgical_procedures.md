@@ -14,7 +14,11 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals will undergo surgery. 
 ### Equipment and materials
 **The following equipment is arranged and checked:**
-* Anesthesia system
+* Anesthesia system:
+We use the GE ISO 850 system pictured here:
+	- :bangbang: Check connections of all the tubes delivering oxygen to and from the vaporizer. 
+	- :bangbang: Check that an adequate head cone for induction is connected.
+	- :bangbang: Check that the Isoflurane level is 
 * Heating system
 * Stereotactic system
 * Dental drill system
