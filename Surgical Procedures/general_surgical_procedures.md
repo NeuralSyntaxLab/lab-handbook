@@ -41,15 +41,28 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: The pedal is tested before the surgery.
 * Surgery table
 	- We use a TMC CleanBench air table similar to the one in this picture: <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
-
+	- :bangbang: The air pressure is turned on.
+	- The regulator sets the pressure to about 5.4 bar = 80 psi.
+	- The table is in a stable position before the surgery starts. 
 * Surgery tools - each surgeon compiles their set of preferred tools.
 	- Forcepes
 	- Scissors
-	- Scalpels
+	- Scalpel holder + blades.
 	- Dura picks
 
 **The following materials are prepared:**
 
+* :bangbang: 70% Ethanol in a testube stand
+* :bangbang: Povidine (or similar) in a testube stand
+* :bangbang: Q-tips
+* :bangbang: Hand warmer
+* :bangbang: a glass rod (pipette).
+* Sterile Q-tips
+* Gel-Foam
+* Sterile seline
+* Bone cement powder + hardner + stirring cups
+* Needles - gauge 30 and 25.
+* Insect pins
 ### Disinfection
 
 ## Induction
