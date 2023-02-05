@@ -26,7 +26,8 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: The system is turned on.
 	- Temperature is set in the ange 37-45 degrees celcius (depends on meterials, drapes, towel on the pad).
 * Stereotactic system:
-	- We use Kopf's system:
+	- We use 1- and 2-arm Kopf's systems - e.g. in this picture:<img width="200" alt="image" src="https://user-images.githubusercontent.com/17324841/216823584-7757f256-66aa-4e3e-90e8-5f1dde4b14cc.png">
+
 * Dental drill system
 * Surgery table
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
