@@ -23,8 +23,10 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: Gas flow is set between 0.4-1l/m.
 * Heating system:
 	- We use ThermoStar Homeothermic Monitoring System pictured here: <img width="150" alt="image" src="https://user-images.githubusercontent.com/17324841/216810956-5b43804d-d9fb-4eab-861b-14b122868a3c.png">
-
-* Stereotactic system
+	- :bangbang: The system is turned on.
+	- Temperature is set in the ange 37-45 degrees celcius (depends on meterials, drapes, towel on the pad).
+* Stereotactic system:
+	- We use Kopf's system:
 * Dental drill system
 * Surgery table
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/17324841/216755685-47d907d8-4411-43b2-b863-e6a2053a407b.png">
