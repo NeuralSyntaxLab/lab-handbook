@@ -15,7 +15,10 @@ Additionally, some sections and steps in these surgical procedures have multiple
 ### Equipment and materials
 **The following equipment is arranged and checked:**
 * Anesthesia system:
+
 We use the GE ISO 850 system pictured here:
+![Tec_850_ISO](https://user-images.githubusercontent.com/17324841/216810184-30fe211f-7ad6-4b52-9701-81128acc3fad.jpeg)
+
 	- :bangbang: Check connections of all the tubes delivering oxygen to and from the vaporizer. 
 	- :bangbang: Check that an adequate head cone for induction is connected.
 	- :bangbang: Check that the Isoflurane level is 
