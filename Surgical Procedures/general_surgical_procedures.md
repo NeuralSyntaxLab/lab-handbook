@@ -75,8 +75,8 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * Ice
 
 ### Disinfection
-* Quatricide or 10% bleach is sprayed on the surgery table, microscope, stereotactic system, illumintion, and heating systems.
-* Surgery tools are sterilized in a hot beads chamber as in this picture: <img width="120" alt="image" src="https://user-images.githubusercontent.com/17324841/216833652-96035623-6b55-4321-b8b6-11cda7422db1.png">
+* :bangbang: Quatricide or 10% bleach is sprayed on the surgery table, microscope, stereotactic system, illumintion, and heating systems.
+* :bangbang: Surgery tools are sterilized in a hot beads chamber as in this picture: <img width="120" alt="image" src="https://user-images.githubusercontent.com/17324841/216833652-96035623-6b55-4321-b8b6-11cda7422db1.png">
 * The sterile drape is laid over the heating pad and extends to one side of the stereotactic system onto the surgery table.
 * The sterile surgery tools are laid on the drape. 
 
