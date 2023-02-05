@@ -16,10 +16,11 @@ Additionally, some sections and steps in these surgical procedures have multiple
 **The following equipment is arranged and checked:**
 * Anesthesia system:
 	- We use the GE ISO Tec system pictured here: <img width="100" alt="image" src="https://user-images.githubusercontent.com/17324841/216810260-42d7f53f-7f18-448e-95a6-7ddf7a147a43.png">
-
-	- :bangbang: Check connections of all the tubes delivering oxygen to and from the vaporizer. 
-	- :bangbang: Check that an adequate head cone for induction is connected.
-	- :bangbang: Check that the Isoflurane level is 
+	- :bangbang: Connections of all the tubes delivering oxygen to and from the vaporizer are checked. 
+	- An adequate head cone for induction is connected.
+	- :bangbang: The Isoflurane level is checked and filled if less than a third.
+	- :bangbang: Check that the Oxygen levels in the outdoors facility are adequate. Alert the service if not.
+	- :bangbang: Gas flow is set between 0.4-1l/m.
 * Heating system
 * Stereotactic system
 * Dental drill system
