@@ -21,7 +21,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 	- :bangbang: The Isoflurane level is checked and filled if less than a third.
 	- :bangbang: Check that the Oxygen levels in the outdoors facility are adequate. Alert the service if not.
 	- :bangbang: Gas flow is set between 0.4-1l/m.
-* Heating system
+* Heating system:
+	- We use ThermoStar Homeothermic Monitoring System pictured here: <img width="150" alt="image" src="https://user-images.githubusercontent.com/17324841/216810956-5b43804d-d9fb-4eab-861b-14b122868a3c.png">
+
 * Stereotactic system
 * Dental drill system
 * Surgery table
