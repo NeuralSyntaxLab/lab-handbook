@@ -13,6 +13,8 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: If more than one bird will undergo surgery then several animals can be brought from the aviary. Each needs to be in its own travel cage. Birds that are waiting for their surgery can be kept in the main lab space, the surgery room, or in an experiment room. The location and environment should be set to avoid distressing birds.
 * :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals will undergo surgery. 
 * :bangbang: Water and food are removed 30 minutes before ansthesia induction. This prevents suffocation.
+* :bangbang: Analgesic (Meloxicam 0.5-1 mg/kg) is injected IM either right before commencing surgery or immediately after inducing anesthesia.
+* To prevent dehydration, some saline may be injected IC in anticipation of long surgeries.
 ### Equipment and materials
 **The following equipment is arranged and checked:**
 * Anesthesia system:
@@ -62,6 +64,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 * :bangbang: 70% Ethanol in a testube stand
 * :bangbang: Povidine (or similar) in a testube stand
+* :bangbang: Lidocaine 2% in saline.
 * :bangbang: Q-tips
 * :bangbang: Hand warmer
 * :bangbang: a glass rod (pipette).
@@ -82,10 +85,46 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 ## Standard surgery procedures
 ### Induction
+* :bangbang: The anesthesia level is set to 4-5% at a flow of about 0.5 (0.3-1) l/m. The gas flow is set towards the head cone.
+* :bangbang: The bird is held by hand in the head cone next to a gas scavenging intake.
+* :bangbang: As the anesthetic takes effect the breathing is monitored. 
+* The ear holes are exposed using a q-tip dipped in ethanol or water.
+* Some head feathers may be plucked in this stage by hand.
+* :bangbang: The anesthetic flow is changed to the beak bar of the stereotactic system.
+* :bangbang: The beak is held open and the head is placed in the stereotax.
+* :bangbang: The anesthesia level is lowered to about 1% (0.5-2) immediately after placing the bird in the stereotax.
+* The earbars are pressed to tighten the head's holding. This is checked by pressing the head with a finger.  
+
+### Preparing the surgical arena
+* :bangbang: Head and top neck feathers are plucked. 
+* :bangbang: The skin is swabbed (scraped gently) with a q-tip dipped in povidine, then with 70% ethanol. This (povidine, ethanol) is repeated 3 times.
 
 ### Anesthesia maintenance
+**The Anesthesia plane**
+Anesthesia is a dynamic process that must be monitored and actively maintained. 
+
+* Generaly, at the gas flow rate of 0.3-1 l/m we aim for an anesthesia *plane* at about 0.5-1% Isoflurane. 
+* At this plane the animals are stable in the sense that they do not feel pain (inasmuch as they don't react or wake up during surgery) and are at a low risk of breathing complications. 
+* Most birds will have a slow and steady breathing rate at this stage. 
+* Very fast breathing is a sign of insufficient anesthesia. 
+	- The surgeon can wait a few minutes and let anesthesia settle.
+	- It is possible to increase the Iso level by 1-2% for a few minutes.
+	- If this does not help it is possible that the bird is irritated. The ears and beak should be checked. Incorrect placement in the earbars can be solved and a local analgesic (lidocaine) can be added to the earbars (rarely needed). The heating pad should be checked.
+	- The need to increase the Iso level also occurs in long surgeries as the bird 'gets used' to the anesthesia. *If increasing the Iso, the surgeon must attempt lowering it after a few minutes and be mindful of potential breath deepening and slowing (as below).*
+* A very deep breathing is a sign of excessive anesthesia.
+	- The surgeon can lower the Iso by about 0.5-1% and wait a few minutes.
+	- If the bird also gasps it means that it is under-oxygenated. 
+	- In extreme cases te bird should be taken off Iso altogether with close monitoring until breathing improves.
+
+**Note:** The gas flow and Iso levels for achieving an anesthesia plane is a gross estimate since birds really vary from eachother. Some birds are stable at 2% Iso and others at 0.3%. 
 
 ### Skin incision
+* :bangbang: Lidocaine is injected IC to at the midline from the back to the front most part of the scalp.
+* :bangbang: A q-tip is rolled on the skin to spread the analgesic.
+* :bangbang: The surgeon waits around 5 minutes to let the analgesic take effect.
+* :bangbang: The skin is held with forceps and cut (with a scalpel or with scissors) from the back of the head and all the way to the beak.
+	- The back of the incision should not reach to the neck muscles - just to their edge.
+* :bangbang: Soft tissue is cleared at the front, revealing a grove in the bone right behind the beak. 
 
 ### Stereotactic coordinates 
 
