@@ -101,6 +101,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 ### Anesthesia maintenance
 **The Anesthesia plane**
+
 Anesthesia is a dynamic process that must be monitored and actively maintained. 
 
 * Generaly, at the gas flow rate of 0.3-1 l/m we aim for an anesthesia *plane* at about 0.5-1% Isoflurane. 
@@ -125,8 +126,25 @@ Anesthesia is a dynamic process that must be monitored and actively maintained.
 * :bangbang: The skin is held with forceps and cut (with a scalpel or with scissors) from the back of the head and all the way to the beak.
 	- The back of the incision should not reach to the neck muscles - just to their edge.
 * :bangbang: Soft tissue is cleared at the front, revealing a grove in the bone right behind the beak. 
+* *Note:* When the skull is exposed it is often very easy to see the 'Lambda' sinus that is used as a zero stereotactic coordinate. As the skull dries it is commonly harder to see Lambda.
 
 ### Stereotactic coordinates 
+* **Zeroing the head angle:** 
+	- A glass pipette is placed on the skull and held, by pressing a finger, in the skull grove right behind the beak.
+	- The head is turned until the pipette is parallel to the stereotax and the surgery table.
+	- This is referred to as the zero head angle.
+	- This is judged by eye. The surgeon observes from the side as the head is rotated.
+* **The Lambda point:**
+	- The top skull leaflet is removed above the Lambda sinus at the back of the skull.
+	- The bone struts between the two layers of the skull are carefully chipped away allow approach to Lambda.
+	- The head is brought to the desired angle w.r.t the zero angle.
+	- If hard to see, the illumination neck is brought to the side of the head.
+	- The stereotax, mounted with a pointing object is brought to the Lambda point at the bottom skull leaflet.
+	- This is the x,y zero of the stereotactic coordinates set.
+
+
+
+
 
 ### Craniotomy
 
