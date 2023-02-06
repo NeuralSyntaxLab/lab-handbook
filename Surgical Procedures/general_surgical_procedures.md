@@ -135,17 +135,72 @@ Anesthesia is a dynamic process that must be monitored and actively maintained.
 	- This is referred to as the zero head angle.
 	- This is judged by eye. The surgeon observes from the side as the head is rotated.
 * **The Lambda point:**
-	- The top skull leaflet is removed above the Lambda sinus at the back of the skull.
+	- The top skull leaflet is removed with a drill above the Lambda sinus at the back of the skull.
 	- The bone struts between the two layers of the skull are carefully chipped away allow approach to Lambda.
 	- The head is brought to the desired angle w.r.t the zero angle.
 	- If hard to see, the illumination neck is brought to the side of the head.
 	- The stereotax, mounted with a pointing object is brought to the Lambda point at the bottom skull leaflet.
 	- This is the x,y zero of the stereotactic coordinates set.
 
-
-
-
-
 ### Craniotomy
+A full craniotomy is expected in all surgeries.
+* :bangbang: Means for keeping the brain irrigates are prepared prior to creating a full craniotomy. This can be wet gel-foam pieces in sterile saline (optionally: cold). 
+* The bird skull is hollow. It is made of a top and bottom bone leaflets connected with struts.
+* The top leaflet is drilled.
+* Some struts are then carefully chipped away to allow access to the bottom leaflet.
+* The perimeter bottom leaflet is carefully thinned with the drill.
+* The thinned skull can be probed and slightly cracked with a syringe's cutting etge.
+* The thinned skull is moistened and then picked with a bent syringe.
+* Wet gel-foam is placed on the exposed tissue.
+* Small bleedings can be stopped with an eye spear, gel-foam, or q-tip.
+* Big bleedings (very rare) may require cauterizing.     
 
 ### Durotomy
+A durotomy is expected in many types of surgeries - but not in all surgeries. 
+* :bangbang: Means for keeping the brain irrigates are prepared prior to creating a durotomy.
+* :bangbang: Wet gel-foam pieces are prepared to stop bleeding.
+* :bangbang: Two dura picks are prepared in the pre-op stage.
+* Blood vessels that are potential sources of bleeding should be visible and avoided.
+* The two dura picks are used to make a tear in the dura by pulling it in opposite directions.
+* The tear should be as small as needed.
+* Bleeding is stopped by applying gel-foam (preferrably cold). 
+
+### Creating skull anchors
+Skull anchors are used to affix devices onto the skull. This is needed in several, not all, of our procedures.
+* **Insect-pin anchors:**
+	- Pairs of holes (about 0.5mm diameter) are drilled in the top leaflet of the skull a few mm apart.
+	- Insect pins are disinfected by dipping in 70% ethanol, let dry, and threaded through the two holes - going between the two leaflets of the skull without penetrating the bottom leaflet.
+	- The pins are glued to the hols with loctite or krazy glue.
+	- Bone cement is prepared and is used to cover exposed skull and pins where needed.
+* **Acrylic anchors:**
+	- Holes (about 0.5mm diameter) are drilled in the top leaflet of the skull.
+	- Dental acrylic is applied with a nozzle to the hole such that it covers a diameter of about 1mm around the hole between the skull leaflets.
+	- The acrylic is also protruding out of the top leaflet - creating an anchor point.
+	- The acrylic is hardened.
+
+### Surgery closure
+* In some surgeries the skull is covered with anchor points or bone cement in in others (e.g. in an injection surgery) the skull may remain with no portruding anchors.
+* Depending on the type of surgery the surgeon decides whether suturing the skin is needed.
+* If so, sutures are made along the midline in several points.
+* If needed, the skin is glued, using Loctite, along the midline.
+* Antibiotic ointment (Terramycin) is applied to skin edges.
+* The bird may be taken off the anesthesia immediately or kept with just oxygen for a couple of minutes andter very close observation. 
+
+## Post-op procedures
+### Immediately after surgery
+* The bird is watched closely while it lies on the heating pad until motion and, sometimes, vocalising, is changing. If worry arises about breathing, oxygen can be given in the head cone.
+* The bird can than be held in the hand with a hand warmer.
+* Once the bird regains conciousness, it can be placed back in the cage.
+* Soft food, mixed with Oral Meloxicam (1mL of 1.5mg/ml), is given.
+* The surgeon makes sure the bird eats and drinks.
+* The surgeon fills the first day report of the [post-op card](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/Post-Op%20Monitoring%20Cards.pdf).
+* The bird is placed in the experiment room.
+
+### In the first 3 days
+* Birds are examined at least twice each day.
+* Birds are given Meloxicam (Oral in soft food as above, or by injection) daily.
+* [Post-op cards](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/Post-Op%20Monitoring%20Cards.pdf) are filled daily. These cards are later kept in the project's folder.
+* [Regular](https://github.com/NeuralSyntaxLab/lab-handbook/wiki/Lab-Operations-and-Procedures#health-checks) and project-specific health checks are made each day. 
+* [Health alerts](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/BirdHealthAlert.pdf) are made if needed.
+
+
