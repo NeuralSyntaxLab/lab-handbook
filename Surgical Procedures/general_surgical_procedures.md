@@ -184,7 +184,13 @@ Skull anchors are used to affix devices onto the skull. This is needed in severa
 * If so, sutures are made along the midline in several points.
 * If needed, the skin is glued, using Loctite, along the midline.
 * Antibiotic ointment (Terramycin) is applied to skin edges.
-* The bird may be taken off the anesthesia immediately or kept with just oxygen for a couple of minutes andter very close observation. 
+* The bird may be taken off the anesthesia immediately or kept with just oxygen for a couple of minutes under very close observation. 
+* The gas valves are closed.
+* Cleanup (after the immediate post-op animal care below):
+	- Instruments are cleaned in a bath of solvent and if needed in a sonicator.
+	- Shraps are disposed in a sharps container.
+	- Biological and contaminated waste is disposed in the biohazard bin.
+	- The table, microscope, and stereotax are wiped with Ethanol.
 
 ## Post-op procedures
 ### Immediately after surgery
