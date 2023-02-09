@@ -89,6 +89,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: The bird is held by hand in the head cone next to a gas scavenging intake.
 * :bangbang: As the anesthetic takes effect the breathing is monitored. 
 * The ear holes are exposed using a q-tip dipped in ethanol or water.
+* :bangbang: A foot pinch test is used to assess the effect of anesthesia. Executing the next steps starts when the leg withrawal reflex stops.
 * Some head feathers may be plucked in this stage by hand.
 * :bangbang: The anesthetic flow is changed to the beak bar of the stereotactic system.
 * :bangbang: The beak is held open and the head is placed in the stereotax.
