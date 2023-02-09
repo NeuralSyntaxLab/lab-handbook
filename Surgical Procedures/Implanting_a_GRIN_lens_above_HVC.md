@@ -69,4 +69,14 @@ Next, we describe the steps done after the animal is anesthetized, positioned in
 	- A dura pick or a syringe is used to slice the tissue from 3 directions and to peel it. The tissue will peel because the parahippocampus and HVC are separated by a ventricle.
 	- Once slightly removed, the tissue will be sucked by the scavenging system.
 	- The exposed HVC is immediately irrigated.
-* The GRIN lens is lowered right above the 
+* The GRIN lens is lowered and placed on HVC:
+	- The glass rod should not press HVC.
+	- Still, the glass rod should not tilt sideways. A tilt will result in future tilting of the miniscope and an undesired side torque.
+* Kwik-Sil is used to guard the tissue and secure the lens in place.
+* Once the Kwik-Sil hardens the lens is gently released from the holder.
+	- If possible, dental acrylic is cured to hold the lens better before removing the holder.
+* Dental acrylic is used to create a circular wall around the lens:
+	- The wall is about one millimeter away from the lens on each direction.
+	- The wall is the future support of the miniscope.
+	- The wall must not be higher than the lens.
+* The dental acrylic is attached to the skull anchor points.   
