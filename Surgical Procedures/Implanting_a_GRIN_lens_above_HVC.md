@@ -56,6 +56,6 @@ Next, we describe the steps done after the animal is anesthetized, positioned in
 * Virus is injected into HVC
 	- A shallow injection glass pipette is loaded with virus.
 	- The pipette is attached to the nano-injector and to the stereotax.
-	- Injections are made in multiple locations
+	- Injections are made in multiple locations. X,Y locations are at the center of the nucleus and in 3-4 locations 200-400um around it as illustrated here: <img width="200" alt="image" src="https://user-images.githubusercontent.com/17324841/217760136-3de3beb0-b711-4af0-9253-185af6652fd1.png">
 * The lens and lens holder are mounted on the stereotactic manipulator and placed away to not disturb the surgical arena.
 	- 
