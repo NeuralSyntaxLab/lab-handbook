@@ -3,16 +3,59 @@ This is under construction ..
 
 This protocol details the procedures for implanting a cylindrical (typ. 1mm diameter and about 4mm long) GRIN lens. We detail two main variants of the procedure but it is possible that future projects will require special adaptations. 
 
-Additionally, some sections and steps in these surgical procedures have multiple alternatives (e.g. how to hold the lens by the stereotaxtic manipulator). We therefore anticipate lab members will shape these procedures for their work. We mark actions that are strictly mandatory with :bangbang:.
+Some sections and steps in these surgical procedures have multiple alternatives (e.g. how to hold the lens by the stereotaxtic manipulator). We therefore anticipate lab members will shape these procedures for their work. We mark actions that are strictly mandatory with :bangbang:.
+
+**Note:** This surgery is performed a few days after a DiI [injection surgery](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/Injecting_into_the_brain.md) into Area X. The injection surgery may also include creating anchoring points and/or marking the skull above the expected HVC center (e.g. left HVC coordinates: Head angle=+65°, ML=−2.5mm, AP=0.12mm).
 
 ## Pre-op procedures
 Implanting a GRIN lens is most often a full scale surgery that also includes injecting virus into HVC. The virus injection is details [here](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/Injecting_into_the_brain.md) and will be referred to from this protocol.  
 
-All pre-op steps appearing in the [general procedures](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/general_surgical_procedures.md) apply and the surgeon needs to pay extra care in preparing for a long surgery (several hours).
+All pre-op steps appearing in the [general procedures](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/general_surgical_procedures.md) and in the [injection procedures](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/Injecting_into_the_brain.md) apply and the surgeon needs to pay extra care in preparing for a long surgery (several hours).
+
+The virus is most often an AAV or a Lentivirus. Measures, detailed in [our ASP](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Annual%20Safety%20Program/asp_cohenlab_uptodate.pdf), should be taken.
 
 Here we describe additional steps:
 ### Equipment and materials
 **The following equipment is arranged and checked:**
-* GRIN lens - checked for damage and disinfected by dipping in ethanol.
-* lens holder - custom made.
+* :bangbang: GRIN lens - checked for damage and disinfected by dipping in ethanol.
+* :bangbang: lens holder - custom made. Typical holders are:
+	- Soft forcesps with parafilm covered edges.
+	- 3D-printed holders.
+* :bangbang: Tissue suction setup. This is a nossle connected, through biosafety filtering, to the building vacuum.
+	- The integrity is checked.
+	- The filter is built from Erlenmeyer flasks filled with fresh 10% bleach in water.
+* :bangbang: Means to cut brain tissue:
+	- E.g. Thin dura pick needles or the sharp side of a 30 gauge syringe. 
+* :bangbang: Red filter for the stereomicroscope's objective.
+* :bangbang: Green light source for exciting the red emission of DiI.
+* A green pointer laser.
 
+**The following materials are prepared:**
+* :bangbang: Kwik-Sil elastomer.
+* :bangbang: A large amount of Gel-Foam in sterile (preferrably cold) saline is prepared.
+* :bangbang: a syringe with saline is prepared for irrigation.
+
+## Procedures
+The main general procedures are covered in the [general procedures](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/general_surgical_procedures.md). 
+
+* After the animal is anesthetized it is injected IC with about 0.2-0.5ml saline. 
+
+Next, we describe the steps done after the animal is anesthetized, positioned in the stereotax, and after the zero head is found, the desired angle is set, and the stereotactic zero is set on the Lambda point:
+* A [craniotomy](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Surgical%20Procedures/general_surgical_procedures.md#craniotomy) is made above HVC.
+	- The craniotomy is centered around HVC x,y coordinate (ML=−2.5mm, AP=0.12mm at a head angle of +65°).
+	- The craniotomy is of a radius of 1-1.5mm.
+	- This craniotomy is made a few days after an injection surgery. The surgeon can expect excess fluids between the skull's bone leaflets even above HVC and must clean the dura well before proceeding.
+	- Once the dura is exposed it should be kept irrigated at all time. 
+* The green excitation lights are brought to illuminate the craniotomy and identify HVC's exact location by imaging DiI.
+* The red emission filter is attached to the microscope's objective.
+* HVC is identified by the DiI's fluorescence.
+	- This process is successful 95% of the times.
+	- If dim or no fluorescence is observed then the excitation light may be increased by using a green pointer laser.
+	- If there is no signal then a durotomy is made and another attempt is made. Making a durotomy will require speeding up upcoming procedures and taking great care to keep the tissue wet.
+	- If the signal is not seen then the surgery will not continue and the bird is [killed](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Animal%20Wellfare%20and%20Euthanasia/EuthanasiaProrotocls.md).
+* Virus is injected into HVC
+	- A shallow injection glass pipette is loaded with virus.
+	- The pipette is attached to the nano-injector and to the stereotax.
+	- Injections are made in multiple locations
+* The lens and lens holder are mounted on the stereotactic manipulator and placed away to not disturb the surgical arena.
+	- 
