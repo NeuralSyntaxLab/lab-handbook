@@ -20,8 +20,8 @@ We separate euthaniasia procedures into three distinct cases:
 This protocol is used to humanely kill a bird when its brain, or any other part, is not needed.
 
 *Preparation:*
-* Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital (euthasol).
-* The euthasol solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
+* Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital.
+* The pentobarbital solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
 * Before killing a bird we prepare an environment that causes minimal distress, preferrably in a quiet room without bright lights.
 * A 1mL syringe with a 30 gauge needle is prepared with 0.2mL solution for a Zebra finch or 0.3mL for a canary.
 * Multiple syringes are prepared if needing to kill multiple birds. Killing multiple birds by loading one syringe with more solution is to be avoided. 
@@ -35,7 +35,7 @@ This protocol is used to humanely kill a bird when its brain, or any other part,
 * The bird is brought to the prepared environment in a cage or, if brought from a setup, held by hand.
 * Actions are performed without erratic movements to avoid stress (of both the human and the bird).
 * For precise IC route, the bird are held on their back and the botom part of the abdomen, at a third of the distance to the ribs, is located. Injection is slightly to the side of the midline.
-* The bird is injected, IC (intracoelomic), with 250mg/kg euthasol (this is 0.1-0.2ml of the strandard solution in Zebra finches and 0.2-0.3ml in canaries)
+* The bird is injected, IC (intracoelomic), with 250mg/kg pentobarbital (this is 0.1-0.2ml of the strandard solution in Zebra finches and 0.2-0.3ml in canaries)
 * The bird is held until breathing stops and the heartbeat is no longer fealt.
 * When breathing stops, the lack of sensation is checked by a toe-pinch. Birds will pull their legs if sensing the pinch.
 * When the toe pinch does not cause reaction the bird will be decapitated.
@@ -48,8 +48,8 @@ This protocol is used to humanely kill a bird right before a perfusion (e.g. whe
 
 *Preparation:*
 * First, all the preparation steps for perfusion are followed as detailed [here](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Histology%20and%20Immunohistochemistry/perfusion_and_brain_extraction.md). 
-* Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital (euthasol).
-* The euthasol solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
+* Both Zebra finches and canaries will be killed by injection of Sodium pentobarbital (pentobarbital).
+* The pentobarbital solution will be prepared in advance following our [protocol](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Chemichals%2C%20Solutions%2C%20Dlutions/GeneralLabDilutionsSolutions.md) and kept in a locked cabinet or safe.
 * Killing will be done next to the hood. The environment should be quiet and calm as possible.
 * The bay next to the hood must be cleared of obstructions.
 * A 1mL syringe with a 30 gauge needle is prepared with 0.2mL solution for a Zebra finch or 0.3mL for a canary.
@@ -63,7 +63,7 @@ This protocol is used to humanely kill a bird right before a perfusion (e.g. whe
 * The bird is brought to the prepared environment in a cage or, if brought from a setup, held by hand.
 * Actions are performed without erratic movements to avoid stress (of both the human and the bird).
 * For precise IC route, the bird are held on their back and the botom part of the abdomen, at a third of the distance to the ribs, is located. Injection is slightly to the side of the midline.
-* The bird is injected, IC (intracoelomic), with 250mg/kg euthasol (this is 0.1-0.2ml of the strandard solution in Zebra finches and 0.2-0.3ml in canaries)
+* The bird is injected, IC (intracoelomic), with 250mg/kg pentobarbital (this is 0.1-0.2ml of the strandard solution in Zebra finches and 0.2-0.3ml in canaries)
 * The bird is held in the hand and closely monitored.
 * Once breathing is no longer observed a toe-pinch test, as above, is used to assure lack of sensation.
 * At this point the feathers from the entire abdomen and the neck are plucked.
@@ -81,9 +81,9 @@ This protocol is used when it is necessary to kill a bird during surgery. This n
  * The Isoflurane mixture is raised to 5% and kept this way for 5-10 minutes. This puts the bird in very deep anesthesia.
  * Then, the bird is decapitated while anesthetized.
  * The carcass and the head are disposed of as in (1).
- * If, for whatever reason (pain or adaptation to anesthesia in a long surgery), the bird is prone to wake, then a 1mL syringe with euthasol (0.2mL for finch, 0.3 for canary) is prepared during the 10 minutes. 
+ * If, for whatever reason (pain or adaptation to anesthesia in a long surgery), the bird is prone to wake, then a 1mL syringe with pentobarbital (0.2mL for finch, 0.3 for canary) is prepared during the 10 minutes. 
  * Then, the procedure is as (1) above: injection IC while the bird is anesthetized, waiting for breathing to stop, and decapitation.
- * If the brain is needed for histology then the bird is not decapitated. Instead, the procedure after the euthasol injection is as in (2)  
+ * If the brain is needed for histology then the bird is not decapitated. Instead, the procedure after the pentobarbital injection is as in (2)  
 
 
 
