@@ -207,6 +207,7 @@ Skull anchors are used to affix devices onto the skull. This is needed in severa
 * Birds are examined at least twice each day.
 * Birds are given Meloxicam (Oral in soft food as above, or by injection) daily.
 * [Post-op cards](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/Post-Op%20Monitoring%20Cards.pdf) are filled daily. These cards are later kept in the project's folder.
+* If needed, birds are treated with an antibacterial ointment (Terramycin) once daily. The ointment is applied to areas of skin stiches, etdges, and around implants or skull anchoring base.
 * [Regular](https://github.com/NeuralSyntaxLab/lab-handbook/wiki/Lab-Operations-and-Procedures#health-checks) and project-specific health checks are made each day. 
 * [Health alerts](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/BirdHealthAlert.pdf) are made if needed.
 
