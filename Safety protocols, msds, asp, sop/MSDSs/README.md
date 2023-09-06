@@ -15,3 +15,9 @@
 14. Sodium Hypochloride (Bleach)
 15. Vertex Acrilic Powder
 16. Vertex Self Curing Liquid
+17. Acetone
+18. Ethanol 70%
+19. Ethanol 96%
+20. Ethyl Alcohol
+21. Acetic Acid
+22. Sodium Hypochloride
