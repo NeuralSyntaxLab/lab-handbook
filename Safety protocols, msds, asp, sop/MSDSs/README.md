@@ -7,10 +7,11 @@
 6. DREADD AGONIST 21 DIHYDROCHLORIDE 5mg
 7. Epredia™ Cytoseal™ Mountant; 60, 280 and XYL
 8. Fluoro-Gel Mounting Medium with Tris Buffer
-9. Isoflurane
-10. Mineral Oil
-11. N,N-DIMETHYLFORMAMIDE
-12. PBS 4%
-13. Sodium Hypochloride (Bleach)
-14. Vertex Acrilic Powder
-15. Vertex Self Curing Liquid
+9. Hepes Buffer Solution
+10. Isoflurane
+11. Mineral Oil
+12. N,N-DIMETHYLFORMAMIDE
+13. PBS 4%
+14. Sodium Hypochloride (Bleach)
+15. Vertex Acrilic Powder
+16. Vertex Self Curing Liquid
