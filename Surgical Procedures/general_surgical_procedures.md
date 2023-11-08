@@ -13,7 +13,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: If more than one bird will undergo surgery then several animals can be brought from the aviary. Each needs to be in its own travel cage. Birds that are waiting for their surgery can be kept in the main lab space, the surgery room, or in an experiment room. The location and environment should be set to avoid distressing birds.
 * :bangbang: Animals are inspected visually and observed to assess their health. Only healthy animals will undergo surgery. 
 * :bangbang: Water and food are removed 30 minutes before ansthesia induction. This prevents suffocation.
-* :bangbang: Analgesic (Meloxicam 0.5-1 mg/kg) is injected IM either right before commencing surgery or immediately after inducing anesthesia.
+* :bangbang: Analgesic (Meloxicam 0.5-1 mg/kg) is injected IM immediately after inducing anesthesia.
 * To prevent dehydration, some saline may be injected IC in anticipation of long surgeries.
 ### Equipment and materials
 **The following equipment is arranged and checked:**
@@ -129,7 +129,7 @@ Anesthesia is a dynamic process that must be monitored and actively maintained.
 * :bangbang: Soft tissue is cleared at the front, revealing a grove in the bone right behind the beak. 
 * *Note:* When the skull is exposed it is often very easy to see the 'Lambda' sinus that is used as a zero stereotactic coordinate. As the skull dries it is commonly harder to see Lambda.
 
-### Stereotactic coordinates 
+### Stereotactic coordinates
 * **Zeroing the head angle:** 
 	- A glass pipette is placed on the skull and held, by pressing a finger, in the skull grove right behind the beak.
 	- The head is turned until the pipette is parallel to the stereotax and the surgery table.
