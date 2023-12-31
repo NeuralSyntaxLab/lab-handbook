@@ -64,7 +64,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 * :bangbang: 70% Ethanol in a testube stand
 * :bangbang: Povidine (or similar) in a testube stand
-* :bangbang: Lidocaine 2% in saline.
+* :bangbang: Lidocaine 2% diluted 1/50 in saline (0.4mg/ml).
 * :bangbang: Q-tips
 * :bangbang: Hand warmer
 * :bangbang: a glass rod (pipette).
@@ -121,7 +121,7 @@ Anesthesia is a dynamic process that must be monitored and actively maintained.
 **Note:** The gas flow and Iso levels for achieving an anesthesia plane is a gross estimate since birds really vary from eachother. Some birds are stable at 2% Iso and others at 0.3%. 
 
 ### Skin incision
-* :bangbang: Lidocaine is injected IC to at the midline from the back to the front most part of the scalp.
+* :bangbang: 0.1ml Lidocaine (1-2mg/kg) is injected IC to at the midline from the back to the front most part of the scalp.
 * :bangbang: A q-tip is rolled on the skin to spread the analgesic.
 * :bangbang: The surgeon waits around 5 minutes to let the analgesic take effect.
 * :bangbang: The skin is held with forceps and cut (with a scalpel or with scissors) from the back of the head and all the way to the beak.
