@@ -84,6 +84,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * The sterile surgery tools are laid on the drape. 
 
 ## Standard surgery procedures
+### Weighing
+* Birds can be weighed before the surgery or after (if implanted).
+* Weighing is done by placing the bird in a closed shoe cover and laying it on a scale. 
 ### Induction
 * :bangbang: The anesthesia level is set to 4-5% at a flow of about 0.5 (0.3-1) l/m. The gas flow is set towards the head cone.
 * :bangbang: The bird is held by hand in the head cone next to a gas scavenging intake.
