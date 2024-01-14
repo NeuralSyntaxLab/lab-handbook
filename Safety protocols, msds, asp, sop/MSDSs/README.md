@@ -2,7 +2,7 @@
 1. DMEM 4500 MG/L GLUCOSE 500 ML
 2. Cressyl Violet Acetate
 3. DiD' solid/10mg
-4. DII';DIIC18(3)/100mg
+4. DII' DIIC18(3)/100mg
 5. DPX MOUNTANT FOR HISTOLOGY
 6. DREADD AGONIST 21 DIHYDROCHLORIDE 5mg
 7. Epredia™ Cytoseal™ Mountant; 60, 280 and XYL
