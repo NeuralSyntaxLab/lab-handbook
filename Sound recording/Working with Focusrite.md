@@ -35,8 +35,29 @@ The **Focusrite Scarlett 18i20** sound card allows the recording of multiple aud
 
 - **Optical Outputs/Inputs**: These can be used to chain multiple sound cards together and increase the number of channels.
 
-## Microphone connection 
-To record the birds we are using an omnidirectional condenser Lavalier microphone (AT803, Audio–Technica). 
-the microphone comes with what's known as a body pack (see photos below) at its bottom, we can see two XLR connections, the regular size (pink) connects the bodypack to the sound card, the small size XLR (green) to the microphone itsel. 
-on a side view there's an on/off /high pass filter switch, on is the straight line. high pass is above it.
+---
 
+## Microphone Connection
+
+To record the birds, we are using an omnidirectional condenser Lavalier microphone (**AT803, Audio–Technica**). 
+
+The microphone comes with what's known as a **body pack** (see photos below). At its bottom, we can see two XLR connections:
+- The **regular size XLR** (pink) connects the bodypack to the sound card.
+- The **small size XLR** (green) connects to the microphone itself. 
+
+On the side view, there is an **on/off /high pass filter** switch, where the straight line represents "on," and the high pass filter is above it.
+
+## Microphone Connection
+
+To record the birds, we are using an omnidirectional condenser Lavalier microphone (**AT803, Audio–Technica**). 
+
+The microphone comes with what's known as a **body pack** (see photos below). At its bottom (left image below), we can see two XLR connections:
+- The **regular size XLR** (pink) connects the bodypack to the sound card.
+- The **small size XLR** (green) connects to the microphone itself. 
+
+On the side view (right image below), there is an **on/off /high pass filter** switch, where the straight line represents "on," and the high pass filter is above it.
+
+<div style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/411f126f-2865-4c3e-ae86-f204a039c92e" alt="Bottom view" width="300"/>
+  <img src="https://github.com/user-attachments/assets/bb6e63e7-d7a4-45a6-9f5d-ed1d2f8dbc5a" alt="Side view" width="300"/>
+</div>
