@@ -51,3 +51,13 @@ On the side view (right image below), there is an **on/off /high pass filter** s
   <img src="https://github.com/user-attachments/assets/411f126f-2865-4c3e-ae86-f204a039c92e" alt="Bottom view" width="300"/>
   <img src="https://github.com/user-attachments/assets/bb6e63e7-d7a4-45a6-9f5d-ed1d2f8dbc5a" alt="Side view" width="300"/>
 </div>
+
+---
+## The Focusrite Control software 
+The Focusrite Control software is used to configure the sample rate, the routing between inputs and outputs, and the clock source, which is how a unit derives its digital clock.
+in this part, i will elaborate on input/output routing and setting the clock source which will be useful for daisy chain of two Focusrite 18i20 such that overall we would be able to record 16 channels simoultenisuoly.
+for more information please consult [this manual](https://github.com/user-attachments/files/17355472/Focusrite.Control.Scarlett.3rd.Gen.User.Guide_EN_0.pdf)
+
+
+---
+### input/output routing 
