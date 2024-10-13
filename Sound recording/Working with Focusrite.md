@@ -41,16 +41,6 @@ The **Focusrite Scarlett 18i20** sound card allows the recording of multiple aud
 
 To record the birds, we are using an omnidirectional condenser Lavalier microphone (**AT803, Audio–Technica**). 
 
-The microphone comes with what's known as a **body pack** (see photos below). At its bottom, we can see two XLR connections:
-- The **regular size XLR** (pink) connects the bodypack to the sound card.
-- The **small size XLR** (green) connects to the microphone itself. 
-
-On the side view, there is an **on/off /high pass filter** switch, where the straight line represents "on," and the high pass filter is above it.
-
-## Microphone Connection
-
-To record the birds, we are using an omnidirectional condenser Lavalier microphone (**AT803, Audio–Technica**). 
-
 The microphone comes with what's known as a **body pack** (see photos below). At its bottom (left image below), we can see two XLR connections:
 - The **regular size XLR** (pink) connects the bodypack to the sound card.
 - The **small size XLR** (green) connects to the microphone itself. 
