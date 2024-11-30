@@ -115,6 +115,8 @@ Here, we will explain how to connect two 18i20s and how to set their settings. T
 - **the ADAT and S/PIDF audio protocols**
 S/PDIF is designed to transmit stereo digital audio signals over coaxial or optical cables. It supports two channels of audio and is ideal for simple setups.
 ADAT is a professional protocol that can transmit up to 8 channels of digital audio at 48 kHz over a single optical cable, making it suitable for multichannel recording and studio environments. ADAT is often used to chain multiple audio interfaces or expand channel counts. 
-In our setup, we aim to increase the number of channels used. we will use the ADAT protocol, to increase our channel count.
+In our setup, we aim to increase the number of channels used. We will use the ADAT protocol to increase our channel count.
+
+An important factor to consider is the clock source. Digital devices process audio in discrete samples, and the clock determines the timing of these samples. If devices operate on unsynchronized clocks, even minor timing mismatches can result in audio artifacts like clicks, pops, or signal degradation. A single device should act as the clock master, providing a reference signal, while all other devices synchronize to it as slaves. This synchronization ensures that all devices process audio at the same rate, preserving audio fidelity and preventing data corruption during multichannel recording or playback.
 
   
