@@ -68,10 +68,12 @@ The Focusrite control software has two main tabs:
  ![image](https://github.com/user-attachments/assets/5c6f3cd7-7c51-4667-a515-c889dc8b9d6c)
 
 ----
-- **output routing**
+### output routing
 Here we will explain in depth how to assign, input channels, analogue or digital, to output channel that will be recognized by our DAW, BoomRecorder in our case.
 on the output routing tab there are two rows, the top row is named hardware inputs, we will work only with this row. at the right most part of this row there is a button with a plus sign( see picture above), press it and a window with all of the possible inputs will appear at the left  (see picture below).
 ![Image](https://github.com/user-attachments/assets/ef6254eb-4069-4f29-8183-9c60b18509c4)
+
+to add a channel to hardware inputs press it, such that it will appear gray. In the picture above you'll see that analog channels 3-8 are chosen (actually all of the analog channels are chosen but only 3-8 are visible in the picture), SPDIF channels are not chosen, and ADAT channels 1-6 are chosen as well (actually all of the ADAT channels are chosen but only 1-6 are visible in the picture).
 
 
    
