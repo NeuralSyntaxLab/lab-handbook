@@ -164,6 +164,9 @@ this won't interapt the ongoing recording, but needs to be fixed to use the **Fo
 to fix this on a mac go to  `/Library/Preferences/SystemConfiguration`
 On that folder, delete every `.plist` file ❗**EXCEPT**❗  the file with the word "boot" in its name.
 
+-**Boomrecorder "We lost samples between the audio interface and the i/o cycle"**
+altough this is a **Boomrecorder** fault, its origin might be in the **focusrite control** settings.
+Here **Boomrecorder** will crush and a pop up massage will appear stating :"We lost samples between the audio interface and the i/o cycle".
+If this errorr repeats itself frequently, it might be that the clock is unsynchornized. check the clock settings of the master and slave 18i20 as explained in [Setting the Scarlett 18i20 as Master or Slave](#setting-the-scarlett-18i20-as-master-or-slave)
 
-Before any software issue, you should check the different 
 
