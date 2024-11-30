@@ -117,6 +117,16 @@ S/PDIF is designed to transmit stereo digital audio signals over coaxial or opti
 ADAT is a professional protocol that can transmit up to 8 channels of digital audio at 48 kHz over a single optical cable, making it suitable for multichannel recording and studio environments. ADAT is often used to chain multiple audio interfaces or expand channel counts. 
 In our setup, we aim to increase the number of channels used. We will use the ADAT protocol to increase our channel count.
 
-An important factor to consider is the clock source. Digital devices process audio in discrete samples, and the clock determines the timing of these samples. If devices operate on unsynchronized clocks, even minor timing mismatches can result in audio artifacts like clicks, pops, or signal degradation. A single device should act as the clock master, providing a reference signal, while all other devices synchronize to it as slaves. This synchronization ensures that all devices process audio at the same rate, preserving audio fidelity and preventing data corruption during multichannel recording or playback.
+An important factor to consider is the clock source. Digital devices process audio in discrete samples, and the clock determines the timing of these samples. Even minor timing mismatches can result in audio artifacts like clicks, pops, or signal degradation if devices operate on unsynchronized clocks. A single device should act as the clock master, providing a reference signal, while all other devices synchronize to it as slaves. This synchronization ensures that all devices process audio at the same rate, preserving audio fidelity and preventing data corruption during multichannel recording or playback.
 
-  
+  -**connection of the two sound cards** 
+To daisy chain two soundcards, we will connect them using two fiber optic cables from the output of the slave to the input of the master (as seen below).
+![sound card wiring](https://github.com/user-attachments/assets/d07a7011-9552-4886-b4c0-eeb2276ff3bd)
+This double connection allows for the addition of analog channels 1-8 of the slave to the master at a sampling rate of a maximum of 48kHz.
+
+- **setting the scarlet 18i20 as master or slave**
+
+To set a sound card as a master, connect it to the computer via USB. In the Focusrite control settings panel change the clock source to ADAT. Change the digital I/O mode to Dual ADAT (as seen in the image below, leftmost panel).
+
+![master settings](https://github.com/user-attachments/assets/18708a5c-731a-4c11-9863-ca61de476faf).
+To set the other sound card as a slave, connect it to the computer via USB. In the Focusrite control settings panel change the clock source to internal. Change the digital I/O mode to Dual ADAT. 
