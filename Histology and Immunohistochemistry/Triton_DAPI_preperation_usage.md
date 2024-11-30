@@ -5,12 +5,12 @@
 - Triton X-100
 - Phosphate-Buffered Saline (PBS)
 - DAPI
-- 5 mL, 15 mL and 50 mL tubes
+- 5 mL, 15 mL, and 50 mL tubes
 - Markers
 - Orbital shaker
-- aluminum foil.
-- pipettes
-- serological pipette 
+- Aluminum foil
+- 1–10 µL pipettes and tips
+- Serological pipette
 
 ---
 
@@ -36,8 +36,8 @@ Using the prepared 10% Triton X-100, dilute to a working concentration of 0.3%:
 2. Calculate the volumes for 5 mL (5000 µL) of 0.3% Triton X-100:
    - **Volume of 10% Triton X-100:** `5000 × (3/10) = 1500 µL`.
    - **Volume of PBS:** `5000 - 1500 = 3500 µL`.
-3. Add the PBS and 10% triton x-100 to a 15ml tube. Mix gently to avoid bubble formation.
-   Both 10% and 0.3% triton can be kept at room temperature.
+3. Add the PBS and 10% Triton X-100 to a 15 mL tube. Mix gently to avoid bubble formation.
+4. Both 10% and 0.3% Triton solutions can be kept at room temperature.
 
 ---
 
@@ -46,17 +46,18 @@ DAPI is diluted to a working concentration of 1:2000–1:3000:
 1. To prepare 3 mL of DAPI solution at a 1:2000 dilution:
    - **Volume of DAPI:** `3000 × (1/2000) = 1.5 µL`.
    - **Volume of PBS:** `3000 - 1.5 ≈ 3000 µL`.
-2. add the DAPI and PBS to a 5 ml tube and cover it with aluminum foil.
-3. store the DAPI solution at +4deg Celsius. Keep the solution covered from light and use it fresh.
+2. Add the DAPI and PBS to a 5 mL tube and cover it with aluminum foil.
+3. Store the DAPI solution at +4°C. Keep the solution covered from light and use it fresh.
 
 ---
 
 ## Incubation and Staining Protocol
-## Materials
+
+### Materials
 - 24-well plate
 - Pasteur pipette
-- pipette
-- serological pipette 
+- 200 µL pipette and tips
+- Serological pipette
 
 ### 1. **Preparation**
 1. Fill a 24-well plate with 500 µL PBS per well.
@@ -66,7 +67,7 @@ DAPI is diluted to a working concentration of 1:2000–1:3000:
 2. Use a Pasteur pipette to gently remove PBS and discard it.
 
 ### 3. **Triton X-100 Incubation**
-1. using a pipette, gently Add 200 µL of 0.3% Triton X-100 solution to each well. This should be done by gently releasing the liquid onto the wall of the well and not directly onto the slice. make sure the slices are not folded.
+1. Using a pipette, gently add 200 µL of 0.3% Triton X-100 solution to each well. This should be done by gently releasing the liquid onto the wall of the well and not directly onto the slice. Ensure the slices are not folded.
 2. Incubate for 15 minutes.
 3. Discard the Triton X-100 solution as done previously.
 
@@ -83,6 +84,7 @@ DAPI is diluted to a working concentration of 1:2000–1:3000:
 ---
 
 ## Notes
+- Gently apply any liquid onto slices by releasing liquid onto each well's wall and not directly onto the slices.
 - Always handle DAPI in low-light conditions to avoid photobleaching.
 - Avoid vigorous shaking to prevent bubble formation in Triton X-100 solutions.
 - Discard all waste solutions in designated containers following safety guidelines.
