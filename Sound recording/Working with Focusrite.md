@@ -153,4 +153,5 @@ This configuration adds the analog channels (1-8) of the slave device to the mas
 4. Set the **Digital I/O Mode** to **Dual ADAT**.  
 
 By correctly configuring the master and slave devices, the system can handle all 16 analog channels seamlessly.
+Now connect the Master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [**Assigning Inputs to Corresponding Outputs** section.](#Assigning-Inputs-to-Corresponding-Outputs)
 
