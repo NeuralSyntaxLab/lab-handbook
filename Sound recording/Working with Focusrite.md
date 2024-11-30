@@ -95,8 +95,24 @@ To add a channel to the hardware inputs:
 1. Click the channel so it appears gray.
 2. Selected channels will appear in BoomRecorder. Ensure only the necessary channels are selected (e.g., omit SPDIF channels if not in use).
 
-In the example above, **analog channels 3-8** and **ADAT channels 1-6** are selected, while **SPDIF channels** are not.
+In the example above, **analog channels 3-8** and **ADAT channels 1-6** are selected, while **S/PDIF channels** are not.
+
+--- 
+### assigning inputs to corresponding outputs
+to assign an input to an output, we will use the output column(marked in pink ,see image below)
+![image](https://github.com/user-attachments/assets/78706a21-6ba5-48e3-a895-0cf60b2f74aa).
+per each output channel, we will click the white assigned input.This will reveal a list of possible inputs we can assign to this specific output. In the above example image, the ADAT 1.3 channel output is assigned the ADAT 1.3 hardware input.
+
+
+---
 
 ## Daisy chaining two Scarlett 18i20
 Daisy chain refers to the wiring of multiple electrical devices in a sequence or in a ring.
-Here, we will explain how to connect two 18i20s and how to set their settings. This wiring scheme will allow us to record 16 analog channels instead of the 8 analog channels that each 18i20. one 18i20 will serve as a master, and eventually, it will be connected to the computer acting as a sound card and as an amplifier. the other 18i20 will serve as the slave, meaning it will be connected to the master (and not to the computer) acting only as a microphone amplifier.
+Here, we will explain how to connect two 18i20s and how to set their settings. This wiring scheme will allow us to record 16 analog channels instead of the 8 analog channels that each 18i20. one 18i20 will serve as a master, and eventually, it will be connected to the computer acting as a sound card and as an amplifier. The other 18i20 will serve as the slave, meaning it will be connected to the master (and not to the computer), acting only as a microphone amplifier.
+
+- **the ADAT and S/PIDF audio protocols**
+S/PDIF is designed to transmit stereo digital audio signals over coaxial or optical cables. It supports two channels of audio and is ideal for simple setups.
+ADAT is a professional protocol that can transmit up to 8 channels of digital audio at 48 kHz over a single optical cable, making it suitable for multichannel recording and studio environments. ADAT is often used to chain multiple audio interfaces or expand channel counts. 
+In our setup, we aim to increase the number of channels used. we will use the ADAT protocol, to increase our channel count.
+
+  
