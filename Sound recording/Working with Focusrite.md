@@ -108,30 +108,49 @@ For each output channel, click the white box showing the currently assigned inpu
 
 ---
 
-## Daisy chaining two Scarlett 18i20
-Daisy chain refers to the wiring of multiple electrical devices in a sequence or in a ring.
-Here, we will explain how to connect two 18i20s and how to set their settings. This wiring scheme will allow us to record 16 analog channels instead of the 8 analog channels that each 18i20. one 18i20 will serve as a master, and eventually, it will be connected to the computer acting as a sound card and as an amplifier. The other 18i20 will serve as the slave, meaning it will be connected to the master (and not to the computer), acting only as a microphone amplifier.
+## Daisy Chaining Two Scarlett 18i20
 
-### the ADAT and S/PIDF audio protocols and clock
-S/PDIF is designed to transmit stereo digital audio signals over coaxial or optical cables. It supports two channels of audio and is ideal for simple setups.
-ADAT is a professional protocol that can transmit up to 8 channels of digital audio at 48 kHz over a single optical cable, making it suitable for multichannel recording and studio environments. ADAT is often used to chain multiple audio interfaces or expand channel counts. 
-In our setup, we aim to increase the number of channels used. We will use the ADAT protocol to increase our channel count.
+Daisy chaining refers to connecting multiple electrical devices in a sequence or ring. Here, we will explain how to connect two Scarlett 18i20 devices and configure their settings. This setup allows us to record **16 analog channels** instead of the 8 analog channels available on a single Scarlett 18i20. One 18i20 will act as the **master**, connecting to the computer as both a sound card and an amplifier. The second 18i20 will act as the **slave**, connected to the master (not directly to the computer) and functioning solely as a microphone amplifier.
 
-An important factor to consider is the clock source. Digital devices process audio in discrete samples, and the clock determines the timing of these samples. Even minor timing mismatches can result in audio artifacts like clicks, pops, or signal degradation if devices operate on unsynchronized clocks. A single device should act as the clock master, providing a reference signal, while all other devices synchronize to it as slaves. This synchronization ensures that all devices process audio at the same rate, preserving audio fidelity and preventing data corruption during multichannel recording or playback.
+---
 
-  ### connection of the two sound cards
-To daisy chain two soundcards, we will connect them using two fiber optic cables from the output of the slave to the input of the master (as seen below).
+### The ADAT and S/PDIF Audio Protocols and Clock
+
+**S/PDIF** is designed to transmit stereo digital audio signals over coaxial or optical cables. It supports two channels and is suitable for simple setups.  
+**ADAT**, on the other hand, is a professional protocol capable of transmitting up to 8 channels of digital audio at 48 kHz over a single optical cable. It is widely used for multichannel recording and to expand channel counts in studio environments. In this setup, **ADAT** is utilized to increase the total number of analog channels.
+
+**Clock Synchronization**: An important consideration when daisy chaining devices is clock synchronization. Digital devices process audio in discrete samples, with the clock determining the timing of these samples. Unsynchronized clocks can cause audio artifacts such as clicks, pops, or signal degradation. In a daisy chain, one device must act as the **clock master**, providing a reference signal, while all other devices synchronize as **slaves**. This ensures all devices process audio at the same rate, maintaining audio fidelity and preventing data corruption.
+
+---
+
+### Connection of the Two Sound Cards
+
+To daisy chain two sound cards, connect them using **two fiber optic cables**:  
+- From the **output** of the slave to the **input** of the master.  
+
+This configuration adds the analog channels (1-8) of the slave device to the master, allowing a sampling rate of up to 48 kHz.
+
 <div style="display: inline-block;">
-  <img src="https://github.com/user-attachments/assets/d07a7011-9552-4886-b4c0-eeb2276ff3bd" alt="Bottom view" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d07a7011-9552-4886-b4c0-eeb2276ff3bd" alt="Connection Diagram" width="300"/>
 </div>
 
-This double connection allows for the addition of analog channels 1-8 of the slave to the master at a sampling rate of a maximum of 48kHz.
+---
 
-### setting the scarlet 18i20 as master or slave
+### Setting the Scarlett 18i20 as Master or Slave
 
--**as master**
-To set a sound card as a master, connect it to the computer via USB. In the Focusrite control settings panel change the clock source to ADAT. Change the digital I/O mode to Dual ADAT (as seen in the image below, leftmost panel).
+#### **As Master**
+1. Connect the master sound card to the computer via USB.  
+2. Open the **Focusrite Control** software.  
+3. Set the **clock source** to **ADAT**.  
+4. Set the **Digital I/O Mode** to **Dual ADAT** (as shown in the leftmost panel of the image below).  
 
-![master settings](https://github.com/user-attachments/assets/18708a5c-731a-4c11-9863-ca61de476faf).
--**as slave**
-To set the other sound card as a slave, connect it to the computer via USB. In the Focusrite control settings panel change the clock source to internal. Change the digital I/O mode to Dual ADAT. 
+![Master Settings](https://github.com/user-attachments/assets/18708a5c-731a-4c11-9863-ca61de476faf)
+
+#### **As Slave**
+1. Connect the slave sound card to the computer via USB.  
+2. Open the **Focusrite Control** software.  
+3. Set the **clock source** to **internal**.  
+4. Set the **Digital I/O Mode** to **Dual ADAT**.  
+
+By correctly configuring the master and slave devices, the system can handle all 16 analog channels seamlessly.
+
