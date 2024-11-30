@@ -160,6 +160,8 @@ To daisy chain two sound cards:
 2. Set the **clock source** to `ADAT`.
 3. Set the **Digital I/O Mode** to `Dual ADAT`.
 
+![Master Settings](https://github.com/user-attachments/assets/18708a5c-731a-4c11-9863-ca61de476faf)
+
 #### As Slave
 1. Connect the slave sound card to the computer via USB.
 2. Set the **clock source** to `Internal`.
