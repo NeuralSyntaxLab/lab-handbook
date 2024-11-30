@@ -162,7 +162,7 @@ The most common issue is when the **Focusrite Control** software does not recogn
 this won't interapt the ongoing recording, but needs to be fixed to use the **Focusrite Control** software.
 
 to fix this on a mac go to  `/Library/Preferences/SystemConfiguration`
-On that folder, delete every `.plist` file <span style="color:red;">except</span> the file with the word "boot" in its name.
+On that folder, delete every `.plist` file ❗**EXCEPT**❗  the file with the word "boot" in its name.
 
 
 Before any software issue, you should check the different 
