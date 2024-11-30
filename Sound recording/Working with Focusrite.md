@@ -96,3 +96,7 @@ To add a channel to the hardware inputs:
 2. Selected channels will appear in BoomRecorder. Ensure only the necessary channels are selected (e.g., omit SPDIF channels if not in use).
 
 In the example above, **analog channels 3-8** and **ADAT channels 1-6** are selected, while **SPDIF channels** are not.
+
+## Daisy chaining two Scarlett 18i20
+Daisy chain refers to the wiring of multiple electrical devices in a sequence or in a ring.
+Here, we will explain how to connect two 18i20s and how to set their settings. This wiring scheme will allow us to record 16 analog channels instead of the 8 analog channels that each 18i20. one 18i20 will serve as a master, and eventually, it will be connected to the computer acting as a sound card and as an amplifier. the other 18i20 will serve as the slave, meaning it will be connected to the master (and not to the computer) acting only as a microphone amplifier.
