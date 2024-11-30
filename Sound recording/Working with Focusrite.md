@@ -93,7 +93,7 @@ In the **Output Routing** tab, there are two rows. Focus on the **Hardware Input
 
 To add a channel to the hardware inputs:
 1. Click the channel so it appears gray.
-2. Selected channels will appear in BoomRecorder. Ensure only the necessary channels are selected (e.g., omit SPDIF channels if not in use).
+2. Selected channels will appear in Boomrecorder. Ensure only the necessary channels are selected (e.g., omit S/PDIF channels if not in use).
 
 In the example above, **analog channels 3-8** and **ADAT channels 1-6** are selected, while **S/PDIF channels** are not.
 
