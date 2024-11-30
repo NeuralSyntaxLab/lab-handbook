@@ -121,7 +121,10 @@ An important factor to consider is the clock source. Digital devices process aud
 
   -**connection of the two sound cards** 
 To daisy chain two soundcards, we will connect them using two fiber optic cables from the output of the slave to the input of the master (as seen below).
-![sound card wiring](https://github.com/user-attachments/assets/d07a7011-9552-4886-b4c0-eeb2276ff3bd)
+<div style="display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/d07a7011-9552-4886-b4c0-eeb2276ff3bd" alt="Bottom view" width="300"/>
+</div>
+
 This double connection allows for the addition of analog channels 1-8 of the slave to the master at a sampling rate of a maximum of 48kHz.
 
 - **setting the scarlet 18i20 as master or slave**
