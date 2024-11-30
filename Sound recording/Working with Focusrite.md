@@ -64,5 +64,14 @@ for more information please consult [this manual](https://github.com/user-attach
 The Focusrite control software has two main tabs:
  - **input settings**: the window shows the eight analog channels of the Scarllet 18i20 where you can control the PAD or AIR function per each channel. On the side panel you can control the sample rate, clock source. also here you can enable the digital I/O mode. This setting will be used to configure how will the sound card be used: as a main sound card, or a slave input (see daisy chain part in this page).
 ![image](https://github.com/user-attachments/assets/f17557ab-01b3-4536-b049-83c376b88f7c)
-- **output settings**: the window allows to choose which analog channel is routed to which output. here we can also route analog channels to digital output such that two 18i20 devices could be chained together. on the left side an output channel is chosen and on the right pannel the corresponding inputs are chosen. For instance to hear all of the analog channels through the first and second headphone jacks in the front of the 18i20 we need to reroute all of the channels to outputs 1-2  
+- **output settings**: the window allows to choose which analog channel is routed to which output. here we can also route analog channels to digital output such that two 18i20 devices could be chained together. on the left side, an output channel is chosen, and on the right panel, the corresponding inputs are chosen. For instance, to hear all of the analog channels through the first and second headphone jacks in the front of the 18i20, we need to reroute all of the channels to outputs 1-2.
+ ![image](https://github.com/user-attachments/assets/5c6f3cd7-7c51-4667-a515-c889dc8b9d6c)
+
+----
+- **output routing**
+Here we will explain in depth how to assign, input channels, analogue or digital, to output channel that will be recognized by our DAW, BoomRecorder in our case.
+on the output routing tab there are two rows, the top row is named hardware inputs, we will work only with this row. at the right most part of this row there is a button with a plus sign( see picture above), press it and a window with all of the possible inputs will appear at the left  (see picture below).
+![Image](https://github.com/user-attachments/assets/ef6254eb-4069-4f29-8183-9c60b18509c4)
+
+
    
