@@ -71,7 +71,7 @@ The Focusrite Control software features two main tabs:
   - Displays the eight analog channels of the Scarlett 18i20.
   - Allows control of the PAD or Air function for each channel.
   - Includes sample rate and clock source settings.
-  - Enables digital I/O mode for configuring the device as a primary sound card or a slave input (see the Daisy Chain section).
+  - Enables digital I/O mode for configuring the device as a primary sound card or a slave input (see the [Daisy Chaining Two Scarlett 18i20](#daisy-chaining-two-scarlett-18i20) section).
 
 ![Input settings window](https://github.com/user-attachments/assets/f17557ab-01b3-4536-b049-83c376b88f7c)
 
