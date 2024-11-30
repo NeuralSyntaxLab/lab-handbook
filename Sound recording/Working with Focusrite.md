@@ -98,10 +98,12 @@ To add a channel to the hardware inputs:
 In the example above, **analog channels 3-8** and **ADAT channels 1-6** are selected, while **S/PDIF channels** are not.
 
 --- 
-### assigning inputs to corresponding outputs
-to assign an input to an output, we will use the output column(marked in pink ,see image below)
-![image](https://github.com/user-attachments/assets/78706a21-6ba5-48e3-a895-0cf60b2f74aa).
-per each output channel, we will click the white assigned input.This will reveal a list of possible inputs we can assign to this specific output. In the above example image, the ADAT 1.3 channel output is assigned the ADAT 1.3 hardware input.
+### Assigning Inputs to Corresponding Outputs
+
+To assign an input to an output, use the **Output** column (marked in pink in the image below). 
+![Input to output assigning](https://github.com/user-attachments/assets/78706a21-6ba5-48e3-a895-0cf60b2f74aa)
+
+For each output channel, click the white box showing the currently assigned input. This will open a list of possible inputs that can be assigned to the selected output. In the example above, the **ADAT 1.3 output channel** is assigned to the **ADAT 1.3 hardware input**.
 
 
 ---
