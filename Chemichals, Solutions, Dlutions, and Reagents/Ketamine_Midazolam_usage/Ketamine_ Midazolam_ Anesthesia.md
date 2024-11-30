@@ -44,14 +44,13 @@ We have also tried a Ketamine dosage of 150mg/kg.
 ## Bird Injection  
 
 1. **Weighing the Bird**  
-   - Place the bird in a plastic shoe cover and secure it to prevent movement.  
-   - Record the bird's weight.  
+   - Secure the bird in a plastic shoe cover to prevent movement.   
 
 2. **Preparing the Injection**  
-   - Draw the required volume of diluted ketamine and midazolam into an insulin syringe, ensuring both solutions are combined in the syringe.  
+   - According to the bird's weight, Draw the required volume of diluted ketamine and midazolam into an insulin syringe, ensuring both solutions are combined in the syringe. 
 
 3. **Injection Procedure**  
-   - Apply 70% ethanol to disinfect the lower left abdominal region of the bird.  
+   - Apply 70% ethanol to reveal and disinfect the lower left abdominal region of the bird.  
    - Inject the solution subcutaneously.  
 
 4. **Observation**  
@@ -62,5 +61,3 @@ We have also tried a Ketamine dosage of 150mg/kg.
    - Deliver isoflurane as needed to maintain anesthesia throughout the procedure.  
 
 ---
-
-This protocol provides a systematic and reproducible method for anesthetizing birds using ketamine and midazolam. Adjust dosages and handling as needed based on species-specific requirements or veterinary guidelines.
