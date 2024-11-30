@@ -156,17 +156,20 @@ By correctly configuring the master and slave devices, the system can handle all
 Now connect the Master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [Assigning Inputs to Corresponding Outputs](#assigning-inputs-to-corresponding-outputs) section.
 
 ---
-## Troubleshooting common issues
--**Hardware not detected**
-The most common issue is when the **Focusrite Control** software does not recognize the connected sound card. This will appear in the focusrite control as a single massage stating **hardware not detected**
-this won't interapt the ongoing recording, but needs to be fixed to use the **Focusrite Control** software.
+## Troubleshooting Common Issues
 
-to fix this on a mac go to  `/Library/Preferences/SystemConfiguration`
-On that folder, delete every `.plist` file ❗**EXCEPT**❗  the file with the word "boot" in its name.
+### **Hardware Not Detected**
+The most common issue occurs when the **Focusrite Control** software does not recognize the connected sound card. In the **Focusrite Control**, this will appear as a message stating: **"Hardware not detected."**
 
--**Boomrecorder "We lost samples between the audio interface and the i/o cycle"**
-altough this is a **Boomrecorder** fault, its origin might be in the **focusrite control** settings.
-Here **Boomrecorder** will crush and a pop up massage will appear stating :"We lost samples between the audio interface and the i/o cycle".
-If this errorr repeats itself frequently, it might be that the clock is unsynchornized. check the clock settings of the master and slave 18i20 as explained in [Setting the Scarlett 18i20 as Master or Slave](#setting-the-scarlett-18i20-as-master-or-slave)
+This issue will not interrupt any ongoing recording, but it must be resolved to use the **Focusrite Control** software. To fix this on a Mac:
+1. Navigate to `/Library/Preferences/SystemConfiguration`.
+2. In that folder, delete every `.plist` file ❗**EXCEPT**❗ the file with the word "boot" in its name.
 
+---
+
+### **BoomRecorder: "We lost samples between the audio interface and the i/o cycle"**
+Although this is primarily a **BoomRecorder** issue, its root cause may lie in the **Focusrite Control** settings. When this happens, **BoomRecorder** will crash, and a pop-up message will appear stating:  
+**"We lost samples between the audio interface and the i/o cycle."**
+
+If this error occurs frequently, it may indicate that the clock is unsynchronized. Verify the clock settings for the master and slave Scarlett 18i20 devices, as explained in [Setting the Scarlett 18i20 as Master or Slave](#setting-the-scarlett-18i20-as-master-or-slave).
 
