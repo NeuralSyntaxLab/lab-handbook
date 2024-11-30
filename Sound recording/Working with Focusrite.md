@@ -153,5 +153,17 @@ This configuration adds the analog channels (1-8) of the slave device to the mas
 4. Set the **Digital I/O Mode** to **Dual ADAT**.  
 
 By correctly configuring the master and slave devices, the system can handle all 16 analog channels seamlessly.
-Now connect the Master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [Assigning Inputs to Corresponding Outputs](#assigning-inputs-to-corresponding-outputs) section
+Now connect the Master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [Assigning Inputs to Corresponding Outputs](#assigning-inputs-to-corresponding-outputs) section.
+
+---
+## Troubleshooting common issues
+-**Hardware not detected**
+The most common issue is when the **Focusrite Control** software does not recognize the connected sound card. This will appear in the focusrite control as a single massage stating **hardware not detected**
+this won't interapt the ongoing recording, but needs to be fixed to use the **Focusrite Control** software.
+
+to fix this on a mac go to  `/Library/Preferences/SystemConfiguration`
+On that folder, delete every `.plist` file <span style="color:red;">except</span> the file with the word "boot" in its name.
+
+
+Before any software issue, you should check the different 
 
