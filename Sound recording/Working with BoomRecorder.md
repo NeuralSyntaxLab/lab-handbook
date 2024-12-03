@@ -1,2 +1,2 @@
 # Overview
-In the lab we record bird songs. The software part of the recording process includes a digital audio workstation (DAW), BoomRecorder in our case. BoomRecorder (or any other DAW) integrates with the hard
+In the lab we record bird songs. The software part of the recording process includes a digital audio workstation (DAW), BoomRecorder in our case. BoomRecorder (or any other DAW) integrates with a hardware part (see [Working with Focusrite](https://github.com/NeuralSyntaxLab/lab-handbook/blob/Ido_Lab-handbook/Sound%20recording/Working%20with%20Focusrite.md) for more detail). Boomrecorder
