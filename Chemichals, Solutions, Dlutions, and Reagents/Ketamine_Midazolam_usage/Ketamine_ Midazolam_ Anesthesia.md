@@ -1,4 +1,4 @@
-# Scientific Protocol: Usage of Ketamine and Midazolam for Anesthetizing Birds
+# Usage of Ketamine and Midazolam for Anesthetizing Birds
 
 ## Overview  
 The use of ketamine and midazolam to anesthetize birds is beneficial in birds that do not respond well to isoflurane. This protocol facilitates easier mounting of the bird onto the beak bar during surgery and improves overall handling. Ketamine and midazolam are injected after the bird has been deprived of food and water for at least 15 minutes. During surgery, isoflurane is used to maintain anesthesia, often requiring very low percentages.  
