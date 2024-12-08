@@ -61,3 +61,5 @@ We have also tried a Ketamine dosage of 150mg/kg.
    - Deliver isoflurane as needed to maintain anesthesia throughout the procedure.  
 
 ---
+
+* We would like to thank Dr.Avishag Tuval, who helped calibrate this protocol.
