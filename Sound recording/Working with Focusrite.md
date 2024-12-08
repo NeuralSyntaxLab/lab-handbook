@@ -23,6 +23,7 @@ This guide provides an overview of the different hardware in use, with a primary
   - [Connection of Two Sound Cards](#connection-of-two-sound-cards)
   - [Configuring the Scarlett 18i20 as Master or Slave](#configuring-the-scarlett-18i20-as-master-or-slave)
 - [Troubleshooting Common Issues](#troubleshooting-common-issues)
+- [Notes](#notes)
 
 ---
 
