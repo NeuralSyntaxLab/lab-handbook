@@ -2,9 +2,9 @@
 
 ## Materials
 
-- Triton X-100
+- [Triton X-100](https://www1.weizmann.ac.il/rechesh/warehouse-catalog/search-results-algolia?searchText=020010059&type=1&fromIndex=1&toIndex=50&)
 - Phosphate-Buffered Saline (PBS)
-- DAPI
+- [DAPI](https://www.thermofisher.com/order/catalog/product/62248?SID=srch-srp-62248)
 - 5 mL, 15 mL, and 50 mL tubes
 - Markers
 - Orbital shaker
@@ -88,3 +88,6 @@ DAPI is diluted to a working concentration of 1:2000–1:3000:
 - Always handle DAPI in low-light conditions to avoid photobleaching.
 - Avoid vigorous shaking to prevent bubble formation in Triton X-100 solutions.
 - Discard all waste solutions in designated containers following safety guidelines.
+
+---
+* We would like to thank Dr.Raya Eilam-Altstadter who provided materials and great knowledge.
