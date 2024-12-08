@@ -182,3 +182,11 @@ When the **Focusrite Control** software shows **"Hardware not detected"**, delet
 ### BoomRecorder Crashes
 
 If **BoomRecorder** crashes with the message **"We lost samples between the audio interface and the i/o cycle"**, ensure the master and slave clocks are synchronized, as explained in [Configuring the Scarlett 18i20 as Master or Slave](#configuring-the-scarlett-18i20-as-master-or-slave).
+
+---
+
+## Notes
+ * XLR cables were made in Weizmann by the head of the auditoriums department, [Dotan Dassa](dotan.dassa@weizmann.ac.il).
+* Focusrite hardware was purchased from [Kilombo](https://www.kilombo.co.il).
+* [Kol-Hamusica](https://kolhamusica.com/) is another trustworthy vendor.
+* [D and D](https://dandd.co.il/) have provided consultation regarding the usage of high-end sound card solutions such as the [RME Digiface USB](https://dandd.co.il/product/digiface-usb/) (see also [this](https://rme-audio.de/digiface-usb.html)). This could be used to increase the number of amplifiers used for recording.
