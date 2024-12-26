@@ -15,8 +15,8 @@ This guide provides an overview of the different hardware in use, with a primary
 - [Microphone Connection](#microphone-connection)
 - [Focusrite Control Software](#focusrite-control-software)
   - [Input/Output Routing](#inputoutput-routing)
-  - [Output Routing](#output-routing)
-  - [Assigning Inputs to Corresponding Outputs](#assigning-inputs-to-corresponding-outputs)
+  - [Output Routing to a custom mix](#output-routing-to-a-custom-mix)
+  - [Output Routing of Inputs to Corresponding Outputs](#output-routing-of-inputs-to-corresponding-outputs)
 - [Daisy Chaining Two Scarlett 18i20](#daisy-chaining-two-scarlett-18i20)
   - [ADAT and S/PDIF Protocols](#adat-and-spdif-protocols)
   - [Clock Synchronization](#clock-synchronization)
@@ -98,7 +98,7 @@ The Focusrite Control software features two main tabs:
 
 ---
 
-### Output Routing
+### Output Routing to a custom mix
 
 This section explains how to assign input channels (analog or digital) to output channels recognized by our DAW, **BoomRecorder**.
 
@@ -112,7 +112,7 @@ In the example above, **analog channels 3-8** and **ADAT channels 1-6** are sele
 
 ---
 
-### Assigning Inputs to Corresponding Outputs
+### Output Routing of Inputs to Corresponding Outputs
 
 To assign an input to an output, use the **Output** column (marked in pink in the image below). 
 
@@ -167,8 +167,11 @@ To daisy chain two sound cards:
 1. Connect the slave sound card to the computer via USB.
 2. Set the **clock source** to `Internal`.
 3. Set the **Digital I/O Mode** to `Dual ADAT`.
+4. Assign analogue input channels to the corresponding input channels, see imaqge below
+![Slave Settings](https://github.com/user-attachments/assets/7592df74-4323-48ce-a57b-129ad8db2951)
 
-Finally, connect the master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [Assigning Inputs to Corresponding Outputs](#assigning-inputs-to-corresponding-outputs) section.
+Finally, connect the master sound card and assign the digital ADAT inputs to the corresponding ADAT output channels, as seen in the [Output Routing of Inputs to Corresponding Outputs](#output-routing-of-inputs-to-corresponding-outputs) section.
+
 
 ---
 
