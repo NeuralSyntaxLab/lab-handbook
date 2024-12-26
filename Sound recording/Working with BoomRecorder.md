@@ -1,21 +1,67 @@
-# Overview
-In the lab, we record bird songs. The software part of the recording process includes a digital audio workstation (DAW) named BoomRecorder. BoomRecorder (or any other DAW) integrates with a hardware part (see [Working with Focusrite](https://github.com/NeuralSyntaxLab/lab-handbook/blob/Ido_Lab-handbook/Sound%20recording/Working%20with%20Focusrite.md) for more detail). BoomRecorder is an intuitive DAW that allows for the recording of multiple tracks. The licensed version of BoomRecorder allows for recording up to 256 tracks. In the lab we use the licensed version of BoomRecorder.
-Here, we will introduce the main graphical user interface (GUI) of BoomRecorder, explain how to configure recording settings, and how to route recording tracks to corresponding files and folders. This guide will provide a short overview about boomrecoreder that is relevant to tdaily operations in the lab, for further informaiton please consult the official [BoomRecorder Manual](https://github.com/user-attachments/files/18251557/BoomRecorderManual.pdf)
+# Guide to Using BoomRecorder for Bird Song Recording
 
+## Overview
+In the lab, we record bird songs using a digital audio workstation (DAW) called BoomRecorder. This DAW integrates with hardware (details in [Working with Focusrite](https://github.com/NeuralSyntaxLab/lab-handbook/blob/Ido_Lab-handbook/Sound%20recording/Working%20with%20Focusrite.md)). BoomRecorder is an intuitive tool that allows recording of multiple tracks—up to 256 tracks with the licensed version, which we use in the lab.
 
-## Recording panel
-The recording panel is the first screen that opens up, when you open boomrecorder. This screen shows the different channels that the user allocated (see [Patch bay](#pacth-bay)) and their names. You will also see, the record, play/stop, abort buttons,elapsed time and time code. At the bottom there are patch bay button, frequency analyzer button and more features which are not usually in use.
+This guide covers:
+- The main graphical user interface (GUI) of BoomRecorder.
+- Configuring recording settings.
+- Routing recording tracks to corresponding files and folders.
 
-![7c71743c-0cb3-4911-a7cc-3e649d8ad006](https://github.com/user-attachments/assets/9385abc7-a338-4eb9-abe8-dfe2a7c93e7c)
- - Yellow arrow - allocated channels dB meter
- - Red  arrow - allocated channel names
- - Orange arrow - Top: elapsed recording time. Bottom: time code
- - Green arrow - record, start/stop, play buttons
- - Blue arrow - patch bay button
+For comprehensive details, refer to the official [BoomRecorder Manual](https://github.com/user-attachments/files/18251557/BoomRecorderManual.pdf).
 
 ---
-## Patch bay
-patch bay is a central hub where inputs are routed to outputs. In Boomrecorder, the patch screen allows for routing betweenc channels to inputs, outputs and files, and to allocate in what path the files will be saved.
-In this panel, the number of active channels can be chosen, up to 256 channels in the Boomrecorder pro version, which can be routed with 256 inputs that can be saved at a maximum of 16 different folders. The logic behind our patch bay configuration is to differentiate between inputs and outputs, such that each input comes from a specific acoustic box; this is routed to a specific channel that is saved in a specific file. Each audio input data is saved at a corresponding fil,i.e. files contain data from individual inputs only. Those files are saved as spesific folders.
-in the image below: oragne arrow head shows, the number of channels, fies and folders that can be chosen.
-below that all of the outputs from our recording hardware is shown (20 in total)  the first matrix (in blue and whit) is the input matrix, where inputs are allocated to channels. the green and white  matrix is the output matrix, the red and white matrix is the channel to file allocation matrix, and below that in red and white as well theres the file to path allocation matrix.  the green ractangle shows the different channels, the red ractangle shows the folders paths, in use.
+
+## Recording Panel
+The **Recording Panel** is the main screen of BoomRecorder. It displays the channels allocated by the user (refer to [Patch Bay](#patch-bay)) and their names. Key elements include:
+- **Record, Play/Stop, Abort Buttons**
+- **Elapsed Time** and **Time Code**
+- Buttons for additional features like the Patch Bay and Frequency Analyzer.
+
+Below is a labeled image of the Recording Panel:
+![Recording Panel](https://github.com/user-attachments/assets/9385abc7-a338-4eb9-abe8-dfe2a7c93e7c)
+
+### Labels:
+- **Yellow Arrow**: Allocated channels’ dB meter.
+- **Red Arrow**: Allocated channel names.
+- **Orange Arrow**: Top: Elapsed recording time. Bottom: Time code.
+- **Green Arrow**: Record, Play/Stop buttons.
+- **Blue Arrow**: Patch Bay button.
+
+---
+
+## Patch Bay
+The **Patch Bay** is the central hub for routing inputs to outputs. In BoomRecorder, this screen is used to:
+- Route channels to inputs, outputs, and files.
+- Define file paths for saved recordings.
+
+In the licensed version, up to 256 channels can be routed to 256 inputs and saved across up to 16 folders. Our configuration ensures:
+1. Each input (from a specific acoustic box) is routed to a distinct channel.
+2. Each channel’s data is saved in a corresponding file within a specific folder.
+
+### Image Explanation:
+![Patch Bay](https://github.com/user-attachments/assets/fd08e456-0ddf-4d85-a3ee-eadc18b0408d)
+- **Orange Arrowhead**: Number of channels, files, and folders.
+- **Input Matrix (Blue and White)**: Allocates inputs to channels.
+- **Output Matrix (Green and White)**: Allocates outputs.
+- **Channel-to-File Matrix (Red and White)**: Assigns channels to files.
+- **File-to-Path Matrix (Red and White)**: Assigns files to save paths.
+- **Green Rectangle**: Active channels.
+- **Red Rectangle**: Folder paths in use.
+
+---
+
+## File Name Settings
+Correct file naming is critical for the screening algorithm, which:
+1. Identifies files containing bird songs.
+2. Segments files into individual songs.
+
+### File Name Structure:
+- **Format**: Room name, two-digit channel number, year, month, day, hour, minute, second.
+- Example in image:
+![File Name Settings](https://github.com/user-attachments/assets/1f99b36b-7f8d-4384-bea0-dfe9127f1164)
+
+---
+
+## Time Settings
+(Section under construction.)
