@@ -3,8 +3,8 @@ In the lab, we record bird songs. The software part of the recording process inc
 Here, we will introduce the main graphical user interface (GUI) of BoomRecorder, explain how to configure recording settings, and how to route recording tracks to corresponding files and folders. This guide will provide a short overview about boomrecoreder that is relevant to tdaily operations in the lab, for further informaiton please consult the official [BoomRecorder Manual](https://github.com/user-attachments/files/18251557/BoomRecorderManual.pdf)
 
 
-## Recording screen
-The recording GUI is the first screen that opens up, when you open boomrecorder. This screen shows the different channels that the user allocated (see [Patch bay](#pacth-bay)) and their names. You will also see, the recording, play/pause, stop buttons, and elapsed time and time code. At the bottom there are patch bay button, and more functions which are not usually in use.
+## Recording panel
+The recording panel is the first screen that opens up, when you open boomrecorder. This screen shows the different channels that the user allocated (see [Patch bay](#pacth-bay)) and their names. You will also see, the record, play/stop, abort buttons,elapsed time and time code. At the bottom there are patch bay button, frequency analyzer button and more features which are not usually in use.
 
 ![7c71743c-0cb3-4911-a7cc-3e649d8ad006](https://github.com/user-attachments/assets/9385abc7-a338-4eb9-abe8-dfe2a7c93e7c)
  - Yellow arrow - allocated channels dB meter
@@ -15,5 +15,7 @@ The recording GUI is the first screen that opens up, when you open boomrecorder.
 
 ---
 ## Patch bay
-patch bay is a central hub where inputs are routed to outputs. In Boopmrecorder, the patch screen allows for routing between outputs to files, and to allocate in what path the files will be saved.
-In this panel, the number of active channels can be chosen, up to 256 channels in the Boomrecorder pro version, which can be routed to 256 channels that can be saved at a maximum of 16 different folders. The logic behind our patch bay configuration is to differentiate between inputs and outputs, such that each input comes from a specific acoustic box; this is routed to a specific channel that is saved in a specific file. Each audio input data is saved at a corresponding fil,files contain data from individual inputs only. Those files are saved as spesific folders.
+patch bay is a central hub where inputs are routed to outputs. In Boomrecorder, the patch screen allows for routing betweenc channels to inputs, outputs and files, and to allocate in what path the files will be saved.
+In this panel, the number of active channels can be chosen, up to 256 channels in the Boomrecorder pro version, which can be routed with 256 inputs that can be saved at a maximum of 16 different folders. The logic behind our patch bay configuration is to differentiate between inputs and outputs, such that each input comes from a specific acoustic box; this is routed to a specific channel that is saved in a specific file. Each audio input data is saved at a corresponding fil,i.e. files contain data from individual inputs only. Those files are saved as spesific folders.
+in the image below: oragne arrow head shows, the number of channels, fies and folders that can be chosen.
+below that all of the outputs from our recording hardware is shown (20 in total)  the first matrix (in blue and whit) is the input matrix, where inputs are allocated to channels. the green and white  matrix is the output matrix, the red and white matrix is the channel to file allocation matrix, and below that in red and white as well theres the file to path allocation matrix.  the green ractangle shows the different channels, the red ractangle shows the folders paths, in use.
