@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/19908942/209854676-74feed0d-2ce5-4177-9c4c-d23f2af5868e.png)
 
 4. Choose "SSH".
-5. For remote host fill `gaccess03.wexac.weizmann.ac.il`, tick the 'specify username' checkbox and specify your username.
+5. For remote host fill `login2.wexac.weizmann.ac.il`, tick the 'specify username' checkbox and specify your username.
 6. Click 'OK, and your'e connected!
 7. Your home folder should be created automatically under `/home/labs/yardenc/<your_username>`
 ### Workflow
