@@ -83,3 +83,7 @@ The new json should look like:
 ![](https://paper-attachments.dropboxusercontent.com/s_4E1F293CB99E22616BFDBE31816C177E6E041C1A376ED13650D413A07BFA94AE_1650732014401_debug2.png)
 
 I recommend VS code. For pycharm and others - [this link](https://paper.dropbox.com/doc/Working-in-WAIC--BvuZ80vJqWyd3u_8zD2rBuk_Ag-ab6XDkhtm2V2zqt42ykmA#:uid=780812085531233133160523&h2=IDEs) is very usefull. 
+### Using our nodes using LSF job submissions
+If you are not using any IDE's with WEXAC, and want to submit jobs the old school way via bash commands - you can use our GPU nodes via the gsla_high_gpu queue.  
+### The HPC Wiki 
+WEXAC has a nice documentation on common issues and basic guidelines https://hpcwiki.weizmann.ac.il/
