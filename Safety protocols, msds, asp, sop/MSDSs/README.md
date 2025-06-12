@@ -21,3 +21,4 @@
 20. Ethyl Alcohol
 21. Acetic Acid
 22. Sodium Hypochloride
+23. FormLabs Black Resin (1801033-SDS-ENUS-0)
