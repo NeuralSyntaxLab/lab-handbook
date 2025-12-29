@@ -111,7 +111,7 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: Head and top neck feathers are plucked. 
 * :bangbang: The skin is swabbed (scraped gently) with a q-tip dipped in povidine, then with 70% ethanol. This (povidine, ethanol) is repeated 3 times.
 * :bangbang: Clean surgical area from the center of the incision site outward, and repeat using a new swab each time.
-* 
+
 ### Anesthesia maintenance
 **The Anesthesia plane**
 
