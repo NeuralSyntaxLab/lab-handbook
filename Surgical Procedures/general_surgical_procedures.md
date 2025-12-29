@@ -10,9 +10,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 ### Safety Requirements
 * :bangbang: Lab coat, face mask, and gloves have to be worn at all times.
 * :bangbang: Change gloves whenever you touch anything that is less clean, such as bird feathers or any unplanned equipment that was not cleaned beforehand.
-* :bangbang: Prepare all surgical instruments using an the autoclave.
-* :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with alcohol before surgery.
-* :bangbang: Create a large sterile (or at least clean) field where all surgical instruments can be placed.
+* :bangbang: Sterilize all surgical instruments using an autoclave.
+* :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with 70% ethanol before surgery.
+* :bangbang: Create a large clean field where all surgical instruments can be placed.
 
 ### Animals
 * :bangbang: Health charts are inspected prior to bringing animals from the aviary or from an experiment room. Only healthy birds will be fit for surgery.
