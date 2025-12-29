@@ -6,6 +6,16 @@ This protocol outlines the general procedures shared by all surgeries in our lab
 Additionally, some sections and steps in these surgical procedures have multiple alternatives (e.g. how to pluck feathers or how to keep the birds warm after surgery). We therefore anticipate lab members will shape these procedures for their work. We mark actions that are strictly mandatory with :bangbang:. 
 
 ## Pre-op procedures
+
+### Safety Requirements
+* :bangbang: Lab coat, face mask, and gloves have to be worn at all times.
+* :bangbang: Change gloves whenever you touch anything that is less clean, such as bird feathers or any unplanned equipment that was not cleaned beforehand.
+* :bangbang: Prepare all surgical instruments using an the autoclave.
+* :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with alcohol before surgery.
+* :bangbang: Create a large sterile (or at least clean) field where all surgical instruments can be placed.
+
+
+o Clean from the center of the incision site outward, and repeat using a new swab each time.
 ### Animals
 * :bangbang: Health charts are inspected prior to bringing animals from the aviary or from an experiment room. Only healthy birds will be fit for surgery.
 * :bangbang: The surgeon makes sure that the procedure, including pre-op, starts late ebough so that the animals has time to eat after sunrise, and plans the surgery such that animals will have time to recover, eat, and drink before sunset. If needed, birds will be kept with lights so they get a chance to eat and drink
@@ -102,7 +112,8 @@ Additionally, some sections and steps in these surgical procedures have multiple
 ### Preparing the surgical arena
 * :bangbang: Head and top neck feathers are plucked. 
 * :bangbang: The skin is swabbed (scraped gently) with a q-tip dipped in povidine, then with 70% ethanol. This (povidine, ethanol) is repeated 3 times.
-
+* :bangbang: Clean surgical area from the center of the incision site outward, and repeat using a new swab each time.
+* 
 ### Anesthesia maintenance
 **The Anesthesia plane**
 
