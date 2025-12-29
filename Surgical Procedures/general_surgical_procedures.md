@@ -1,4 +1,4 @@
-This is under construction ..
+
 # General surgical procedures
 
 This protocol outlines the general procedures shared by all surgeries in our lab. That said, it is possible that future projects will require special adaptation of these procedures. Thus, we write these protocols in great detail while keeping in mind that these details may change in some projects. 
