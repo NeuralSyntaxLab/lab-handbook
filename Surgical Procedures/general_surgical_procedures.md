@@ -14,8 +14,6 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with alcohol before surgery.
 * :bangbang: Create a large sterile (or at least clean) field where all surgical instruments can be placed.
 
-
-o Clean from the center of the incision site outward, and repeat using a new swab each time.
 ### Animals
 * :bangbang: Health charts are inspected prior to bringing animals from the aviary or from an experiment room. Only healthy birds will be fit for surgery.
 * :bangbang: The surgeon makes sure that the procedure, including pre-op, starts late ebough so that the animals has time to eat after sunrise, and plans the surgery such that animals will have time to recover, eat, and drink before sunset. If needed, birds will be kept with lights so they get a chance to eat and drink
