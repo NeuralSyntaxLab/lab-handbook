@@ -214,7 +214,6 @@ Skull anchors are used to affix devices onto the skull. This is needed in severa
 * The surgeon makes sure the bird eats and drinks.
 * The surgeon fills the first day report of the [post-op card](https://github.com/NeuralSyntaxLab/lab-handbook/blob/main/Lab%20Forms/Post-Op%20Monitoring%20Cards.pdf).
 * The bird is placed in the experiment room.
-* **Autoclave surgical tools:** TBD
 
 ### In the first 3 days
 * Birds are examined at least twice each day.
