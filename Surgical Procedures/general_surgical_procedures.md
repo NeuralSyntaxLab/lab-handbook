@@ -14,6 +14,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 * :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with 70% ethanol before surgery.
 * :bangbang: Create a large clean field where all surgical instruments can be placed.
 
+![img_20260107_123724045_ae_720](https://github.com/user-attachments/assets/abfcba20-e955-4d8b-9384-83ca7bacc3c3)
+
+
 ### Animals
 * :bangbang: Health charts are inspected prior to bringing animals from the aviary or from an experiment room. Only healthy birds will be fit for surgery.
 * :bangbang: The surgeon makes sure that the procedure, including pre-op, starts late ebough so that the animals has time to eat after sunrise, and plans the surgery such that animals will have time to recover, eat, and drink before sunset. If needed, birds will be kept with lights so they get a chance to eat and drink
