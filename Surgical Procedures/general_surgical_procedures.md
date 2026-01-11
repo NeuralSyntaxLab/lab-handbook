@@ -104,7 +104,7 @@ Autoclave
 ### Weighing
 * Birds have to be weighed before and after the surgery.
 * Before Surgery: Weighing is done by placing the bird in a closed shoe cover and laying it on a scale.
-* After surgery: Weighing is performed chronically by placing our published weighing apparatus™ in the cage.
+* After surgery: Weighing is performed chronically by placing our published weighing apparatus (bonneh et al.2026) in the cage.
 ### Induction
 * :bangbang: The anesthesia level is set to 4-5% at a flow of about 0.5 (0.3-1) l/m. The gas flow is set towards the head cone.
 * :bangbang: The bird is held by hand in the head cone next to a gas scavenging intake.
