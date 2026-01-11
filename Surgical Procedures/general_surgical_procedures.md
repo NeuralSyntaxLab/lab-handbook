@@ -7,18 +7,24 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 ## Pre-op procedures
 
-### Safety Requirements
+### Safety Requirements and Aseptic Precautions
 * :bangbang: Lab coat, face mask, and gloves have to be worn at all times.
-* :bangbang: Change gloves whenever you touch anything that is less clean, such as bird feathers or any unplanned equipment that was not cleaned beforehand.
-* :bangbang: Sterilize all surgical instruments using an autoclave.
+* :bangbang: Avoid contamination: Change gloves whenever you touch anything less clean, such as bird feathers or any equipment that was not cleaned beforehand.
+* :bangbang: Sterilize all surgical instruments in an **autoclave** before use.
 * :bangbang: Clean all equipment (e.g., stereotaxic apparatus) with 70% ethanol before surgery.
 * :bangbang: Create a large clean field where all surgical instruments can be placed.
 
 ![img_20260107_123724045_ae_720](https://github.com/user-attachments/assets/abfcba20-e955-4d8b-9384-83ca7bacc3c3)
 
+Clean Surgery Arena
+
+<img width="427" height="404" alt="image" src="https://github.com/user-attachments/assets/4cb46463-a24a-44b0-ab25-14691c27a7b9" />
+
+Autoclave
 
 ### Animals
 * :bangbang: Health charts are inspected prior to bringing animals from the aviary or from an experiment room. Only healthy birds will be fit for surgery.
+* :bangbang: Weight animal before surgery.
 * :bangbang: The surgeon makes sure that the procedure, including pre-op, starts late ebough so that the animals has time to eat after sunrise, and plans the surgery such that animals will have time to recover, eat, and drink before sunset. If needed, birds will be kept with lights so they get a chance to eat and drink
 * :bangbang: Birds are brought to the surgery room in transport cages at least 30 minutes before the anesthesia process starts.
 * :bangbang: If more than one bird will undergo surgery then several animals can be brought from the aviary. Each needs to be in its own travel cage. Birds that are waiting for their surgery can be kept in the main lab space, the surgery room, or in an experiment room. The location and environment should be set to avoid distressing birds.
@@ -96,8 +102,9 @@ Additionally, some sections and steps in these surgical procedures have multiple
 
 ## Standard surgery procedures
 ### Weighing
-* Birds can be weighed before the surgery or after (if implanted).
-* Weighing is done by placing the bird in a closed shoe cover and laying it on a scale. 
+* Birds have to be weighed before and after the surgery.
+* Before Surgery: Weighing is done by placing the bird in a closed shoe cover and laying it on a scale.
+* After surgery: Weighing is performed chronically by placing our published weighing apparatus™ in the cage.
 ### Induction
 * :bangbang: The anesthesia level is set to 4-5% at a flow of about 0.5 (0.3-1) l/m. The gas flow is set towards the head cone.
 * :bangbang: The bird is held by hand in the head cone next to a gas scavenging intake.
