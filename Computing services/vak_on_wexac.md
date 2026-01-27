@@ -17,7 +17,9 @@ This README describes how to run **VAK (Vocal Annotation Toolkit)** on the WEXAC
 
 ### 1. Connect to WEXAC
 
-* Log into WEXAC, accessing the OnDemand service and launch the server environment configured for **Jupyter Notebook** 
+* Log into WEXAC within Weizmann netowrk, either using: (a) MobaXterm app (see instructions in [How to use WEXAC](HowTo_WEXAC.md)
+) or (b) by accessing the OnDemand service [OpenOnDemand](https://hpcwiki.weizmann.ac.il/en/home/general/OpenOnDemand)
+* Launch the server environment configured for **Jupyter Notebook** 
 * Select suitable resources, i.e. sufficient RAM (e.g. 32GB) and GPU (A40 or A100).
 * From the Jupyter interface, open a **Terminal**.
 
@@ -84,5 +86,6 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
