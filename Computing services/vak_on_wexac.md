@@ -36,10 +36,10 @@ source /path/to/conda/etc/profile.d/conda.sh
 
 ### 3. Activate the shared VAK environment
 
-Activate the environment using its full path:
+Activate the shared VAK environment named "vak_venv" (under folder "vak") using its full path:
 
 ```bash
-conda activate /path_to_shared_vak
+conda activate /home/labs/yardenc/vak/vak_venv
 ```
 
 Once activated, the `vak` command and all required dependencies are available.
@@ -89,6 +89,7 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
 
