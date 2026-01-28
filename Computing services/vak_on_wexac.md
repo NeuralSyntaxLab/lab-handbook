@@ -20,7 +20,9 @@ This README describes how to run **VAK (Vocal Annotation Toolkit)** on the WEXAC
 * Log into WEXAC within Weizmann netowrk, either using: (a) MobaXterm app (see instructions in [How to use WEXAC](HowTo_WEXAC.md)
 ) or (b) by accessing the OnDemand service [OpenOnDemand](https://hpcwiki.weizmann.ac.il/en/home/general/OpenOnDemand)
 * Launch the server environment configured for **Jupyter Notebook** 
-* Select suitable resources, i.e. sufficient RAM (e.g. 32GB) and GPU (A40 or A100).
+* Select suitable resources, i.e. sufficient RAM (e.g. 32GB) and GPU (A40 or A100). When using OnDemand, the selection screen should be filled as follows:
+  <img width="626" height="1141" alt="image (5)" src="https://github.com/user-attachments/assets/4aee2361-6140-4cd3-84b6-ec5b686b06bf" />
+
 * From the Jupyter interface, open a **Terminal**.
 
 ### 2. Initialize conda (only if required)
@@ -86,6 +88,7 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
 
