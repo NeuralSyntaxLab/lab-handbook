@@ -48,7 +48,12 @@ Once activated, the `vak` command and all required dependencies are available.
 
 ## Using VAK
 
-Run VAK exactly as described in the official documentation.
+Run VAK exactly as described in the official documentation. <br>
+It is recommeded to place new bird data, along with annotation and configuration files, under a new folder beneath:
+
+```bash
+conda activate /home/labs/yardenc/vak
+```
 
 ### Data preparation
 
@@ -89,6 +94,7 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
 
