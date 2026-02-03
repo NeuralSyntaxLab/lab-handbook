@@ -34,6 +34,14 @@ If conda is not already available in your shell:
 source /path/to/conda/etc/profile.d/conda.sh
 ```
 
+### 4. Upload data
+
+Wexac supports multiple means for upload of data from your local (or network) drive to the Wexac cluster storage. <br>
+However, the simplest and perhaps most convenient option is using the "Home Directory" app directly from OnDemand as follows (see marking on the screenshot below):
+
+<img width="1835" height="1335" alt="image" src="https://github.com/user-attachments/assets/6f6e0ae1-5523-419c-8a90-d9627344eaef" />
+
+
 ### 3. Activate the shared VAK environment
 
 Activate the shared VAK environment named "vak_venv" (under folder "vak") using its full path:
@@ -94,6 +102,7 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
 
