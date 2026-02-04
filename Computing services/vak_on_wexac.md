@@ -1,6 +1,6 @@
 # Running VAK on WEXAC (Shared Conda Environment)
 
-This README describes how to run **VAK (Vocal Annotation Toolkit)** on the WEXAC high-performance computing (HPC) service using a **shared, preconfigured conda environment**. The setup allows all lab members to train and run songbird annotation models without maintaining local installations.
+This README describes how to run **VAK** on the WEXAC high-performance computing (HPC) service using a **shared, preconfigured conda environment**. The setup allows all lab members to train and run songbird annotation models without maintaining local installations.
 
 ---
 
@@ -34,7 +34,7 @@ If conda is not already available in your shell:
 source /path/to/conda/etc/profile.d/conda.sh
 ```
 
-### 4. Uploading data
+### 3. Uploading data
 
 Wexac supports multiple means for upload of data from your local (or network) drive to the Wexac cluster storage (see more info in: https://hpcwiki.weizmann.ac.il/en/home/general/file-management). <br>
 However, the simplest and perhaps most convenient option is using the "Home Directory" app directly from OnDemand as follows (see marking on the screenshot below):
@@ -46,7 +46,7 @@ Within the Home Directory app, a basic user interface enables various data manip
 <img width="600" height="200" alt="image (7)" src="https://github.com/user-attachments/assets/ee24ba03-3923-466f-ad7d-3e5457317326" />
 
 
-### 3. Activate the shared VAK environment
+### 4. Activate the shared VAK environment
 
 Activate the shared VAK environment named "vak_venv" (under folder "vak") using its full path:
 
@@ -106,6 +106,7 @@ vak prep    <config>.toml
 vak train   <config>.toml
 vak predict <config>.toml
 ```
+
 
 
 
