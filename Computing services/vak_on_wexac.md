@@ -31,7 +31,7 @@ This README describes how to run **VAK** on the WEXAC high-performance computing
 If conda is not already available in your shell:
 
 ```bash
-source /path/to/conda/etc/profile.d/conda.sh
+ml miniconda
 ```
 
 ### 3. Uploading data
