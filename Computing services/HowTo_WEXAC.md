@@ -36,7 +36,7 @@ It is possible to connect an IDE to the remote server and write, run and even de
 4.  Open the command palette by pressing Ctrl+Shift+P, search for the command Remote-SSH: Open SSH Configuration File..., press enter to execute, select the top-most option from the prompted list  (should be C:\Users\$PC_user$\.ssh) and paste the contents of the following (replacing `<username>` with your username):
 ```
 Host cohenLabServer
-	HostName gaccess03.wexac.weizmann.ac.il
+	HostName login2.wexac.weizmann.ac.il
 	User <username>
 ```
 > ❗ From this point you will need to be connected to the weizmann network or the VPN.
