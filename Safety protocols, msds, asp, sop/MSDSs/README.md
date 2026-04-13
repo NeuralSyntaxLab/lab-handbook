@@ -22,3 +22,4 @@
 21. Acetic Acid
 22. Sodium Hypochloride
 23. FormLabs Black Resin (1801033-SDS-ENUS-0)
+24. DAPI Staining Solution
