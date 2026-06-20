@@ -2,8 +2,7 @@
 
 ## Overview
 
-Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. The full protocol spans 4 days.
-
+Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. 
 ---
 
 ## Day 1 — Perfusion & Fixation
