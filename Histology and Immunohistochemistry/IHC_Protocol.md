@@ -1,8 +1,6 @@
 # IHC Protocol for Floating Slices (70 µm)
 
-## Overview
 
-Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. 
 ---
 
 ## Day 1 — Perfusion & Fixation
