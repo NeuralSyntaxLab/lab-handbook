@@ -15,7 +15,6 @@ Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. The f
 
 ## Day 2 — Slicing & Primary Antibody
 
-<!-- ![Slicing setup](images/slicing_setup.jpg) -->
 
 - Slice into **70 µm sections** and place up to **2 slices per well** in PBS in a wellplate.
 - Wash slices in PBS: **3 × 15 min** (if sliced on the same day, 2 additional washes are sufficient).
@@ -37,7 +36,6 @@ Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. The f
 
 ## Day 4 — Final Wash & Mounting
 
-<!-- ![Mounting step](images/mounting.jpg) -->
 
 - Wash slices in PBS at room temperature: **≥4× washes, ≥30 min each**.
 - **DAPI staining** (optional — choose one):
@@ -49,26 +47,5 @@ Immunohistochemistry (IHC) protocol for free-floating 70 µm brain slices. The f
 
 ## Solutions
 
-### Blocking Solution
-**3% BSA in PBS with 0.25% Triton X-100**
+<img width="662" height="171" alt="Screenshot 2026-06-20 123107" src="https://github.com/user-attachments/assets/ab76c880-8365-47ea-9411-c0c5bc948e8e" />
 
-| Component | Amount (for 5 mL) |
-|-----------|-------------------|
-| PBS + 0.25% Triton X-100 | 5 mL |
-| BSA | 0.15 g |
-
-**Preparation:** Measure 10 mL PBS in a falcon tube, add 25 µL Triton X-100. Divide into 2 × 5 mL vials. Add 0.15 g BSA to one vial for blocking solution.
-
----
-
-### Primary Antibody Solution
-**1% BSA in PBS with 0.25% Triton X-100**
-
-| Component | Amount (for 5 mL) |
-|-----------|-------------------|
-| PBS + 0.25% Triton X-100 | 5 mL |
-| BSA | 0.05 g |
-
-**Preparation:** Use the second 5 mL vial from above. Add 0.05 g BSA.
-
-> **Note:** Calculate the needed volume so you have at least 200 µL (48-well) or 400 µL (24-well) per well.
