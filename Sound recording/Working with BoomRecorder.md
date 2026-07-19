@@ -55,6 +55,24 @@ In the licensed version, up to 256 channels can be routed to 256 inputs and save
 
 ---
 
+## Saving and Loading a Simplified Configuration
+You don't need to re-route the Patch Bay matrix by hand every session. BoomRecorder can save the full routing setup (channel/file/folder counts and all matrix connections) as a **Preferences** file, and reload it later from **File > Open Preferences...**.
+
+![Open Preferences](images/boomrecorder-open-preferences.png)
+
+This makes it easy to keep more than one configuration on hand — for example, a full setup that writes every acoustic box to its own folder, alongside a simplified one that only records the cages you actually need for a given experiment.
+
+### Example: Recording Only the Cages You Need
+Instead of routing all 16 acoustic boxes to 16 separate folders, you can reduce the **Files** count in the Patch Bay (top of the window) and connect only the channels you care about to those files. In the example below, 17 input channels are still available, but only 4 files are defined, and just the acoustic boxes actually being used (here, boxes 22–24) are routed into the Channel-to-File matrix:
+
+![Simplified Patch Bay](images/boomrecorder-simplified-patchbay.png)
+
+Save this setup with **File > Save Preferences...** so it can be reloaded directly next time, instead of rebuilding the routing from scratch.
+
+> **Note**: If you simplify the recording setup this way, remember to also update the screening daemon's `birds_to_screen` list (see [Screening Daemon Configuration](#screening-daemon-configuration)) so it only screens the boxes/birds that are actually being recorded.
+
+---
+
 ## File Name Settings
 Proper file naming is essential for the screening algorithm, which:
 1. Detects files containing bird songs.
@@ -85,3 +103,12 @@ If BoomRecorder crashes with the error:
 
 Do the following:
 - Ensure the **master** and **slave** clocks are synchronized. Refer to the section on configuring the Scarlett 18i20 as Master or Slave in [this guide](https://github.com/NeuralSyntaxLab/lab-handbook/blob/Ido_Lab-handbook/Sound%20recording/Working%20with%20Focusrite.md).
+
+---
+
+## Screening Daemon Configuration
+Recordings produced by BoomRecorder are picked up by a separate MATLAB screening pipeline (`Screening_daemon.m`), which detects bird songs in the recorded files and segments them into individual songs. The daemon only screens the boxes listed in its `birds_to_screen` variable — a cell array where each row specifies a box/channel number, the bird's ID, and the date screening should start from:
+
+![birds_to_screen configuration](images/screening-birds-to-screen-config.png)
+
+If you change which cages are being recorded (see [Saving and Loading a Simplified Configuration](#saving-and-loading-a-simplified-configuration)), update `birds_to_screen` to match — otherwise the daemon will keep looking for files from boxes that are no longer being recorded, or miss boxes that were added.
